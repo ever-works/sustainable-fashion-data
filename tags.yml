@@ -63,7 +63,7 @@
 - id: zero-waste
   name: Zero Waste
 - id: gots-certified
-  name: GOTS Certified
+  name: Gots Certified
 - id: vegan
   name: Vegan
 - id: size-inclusive
@@ -604,3 +604,47 @@
   name: Stretch Denim
 - id: pre-consumer
   name: Pre Consumer
+- id: eco-responsible
+  name: Eco Responsible
+- id: handcrafted
+  name: Handcrafted
+- id: ethical-manufacturing
+  name: Ethical Manufacturing
+- id: permanent-collection
+  name: Permanent Collection
+- id: ethical-production
+  name: Ethical Production
+- id: leather
+  name: Leather
+- id: plant-based-fibers
+  name: Plant Based Fibers
+- id: water-efficient
+  name: Water Efficient
+- id: outdoor
+  name: Outdoor
+- id: women-led
+  name: Women Led
+- id: barefoot-shoes
+  name: Barefoot Shoes
+- id: lab-grown-diamonds
+  name: Lab Grown Diamonds
+- id: repair-service
+  name: Repair Service
+- id: curve-friendly
+  name: Curve Friendly
+- id: designer
+  name: Designer
+- id: made-in-portugal
+  name: Made In Portugal
+- id: regenerative-agriculture
+  name: Regenerative Agriculture
+- id: clothing-rental
+  name: Clothing Rental
+- id: made-in-belgium
+  name: Made In Belgium
+- id: ocean-conservation
+  name: Ocean Conservation
+- id: quality-focused
+  name: Quality Focused
+- id: indigenous-empowerment
+  name: Indigenous Empowerment
