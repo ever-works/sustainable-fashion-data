@@ -1,0 +1,36 @@
+- id: womens-fashion
+  name: Women's Fashion
+- id: swimwear
+  name: Swimwear
+- id: activewear
+  name: Activewear
+- id: footwear
+  name: Footwear
+- id: accessories
+  name: Accessories
+- id: casual-wear
+  name: Casual Wear
+- id: luxury-fashion
+  name: Luxury Fashion
+- id: contemporary-fashion
+  name: Contemporary Fashion
+- id: basics-essentials
+  name: Basics & Essentials
+- id: jewelry
+  name: Jewelry
+- id: childrens-clothing
+  name: Children's Clothing
+- id: denim
+  name: Denim
+- id: capsule-wardrobe
+  name: Capsule Wardrobe
+- id: circular-fashion
+  name: Circular Fashion
+- id: menswear
+  name: Menswear
+- id: underwear-intimates
+  name: Underwear & Intimates
+- id: surf-outdoor
+  name: Surf & Outdoor
+- id: outdoor-activewear
+  name: Outdoor & Activewear

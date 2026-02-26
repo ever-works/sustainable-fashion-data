@@ -1,0 +1,332 @@
+- id: indigenous-owned
+  name: Indigenous Owned
+- id: upcycled
+  name: Upcycled
+- id: one-of-a-kind
+  name: One Of A Kind
+- id: b-corp
+  name: B Corp
+- id: fair-trade
+  name: Fair Trade
+- id: women-empowerment
+  name: Women Empowerment
+- id: recycled-materials
+  name: Recycled Materials
+- id: upf-protection
+  name: Upf Protection
+- id: grs-certified
+  name: Grs Certified
+- id: recycled-polyester
+  name: Recycled Polyester
+- id: emissions-reduction
+  name: Emissions Reduction
+- id: certified-cotton
+  name: Certified Cotton
+- id: carbon-negative
+  name: Carbon Negative
+- id: innovative-materials
+  name: Innovative Materials
+- id: plant-based-leather
+  name: Plant Based Leather
+- id: made-in-nyc
+  name: Made In Nyc
+- id: women-owned
+  name: Women Owned
+- id: carbon-neutral-shipping
+  name: Carbon Neutral Shipping
+- id: sweatshop-free
+  name: Sweatshop Free
+- id: wrap-certified
+  name: Wrap Certified
+- id: made-in-usa
+  name: Made In Usa
+- id: organic-cotton
+  name: Organic Cotton
+- id: durable
+  name: Durable
+- id: tree-planting
+  name: Tree Planting
+- id: tencel
+  name: Tencel
+- id: vegan-leather
+  name: Vegan Leather
+- id: luxury
+  name: Luxury
+- id: artisan-made
+  name: Artisan Made
+- id: transparent-supply-chain
+  name: Transparent Supply Chain
+- id: circular-economy
+  name: Circular Economy
+- id: econyl
+  name: Econyl
+- id: zero-waste
+  name: Zero Waste
+- id: gots-certified
+  name: Gots Certified
+- id: vegan
+  name: Vegan
+- id: size-inclusive
+  name: Size Inclusive
+- id: diverse
+  name: Diverse
+- id: inclusive-sizing
+  name: Inclusive Sizing
+- id: performance
+  name: Performance
+- id: recycled-plastic
+  name: Recycled Plastic
+- id: plastic-free
+  name: Plastic Free
+- id: plant-based
+  name: Plant Based
+- id: circular-fashion
+  name: Circular Fashion
+- id: bamboo
+  name: Bamboo
+- id: closed-loop
+  name: Closed Loop
+- id: organic
+  name: Organic
+- id: conflict-free
+  name: Conflict Free
+- id: blockchain-traceability
+  name: Blockchain Traceability
+- id: carbon-neutral
+  name: Carbon Neutral
+- id: recycled-gold
+  name: Recycled Gold
+- id: handmade
+  name: Handmade
+- id: digital-id
+  name: Digital Id
+- id: transparency
+  name: Transparency
+- id: regenerative
+  name: Regenerative
+- id: deadstock
+  name: Deadstock
+- id: made-in-la
+  name: Made In La
+- id: affordable
+  name: Affordable
+- id: minimalist
+  name: Minimalist
+- id: cork
+  name: Cork
+- id: quality-over-quantity
+  name: Quality Over Quantity
+- id: family-factories
+  name: Family Factories
+- id: recycled-nylon
+  name: Recycled Nylon
+- id: small-batch
+  name: Small Batch
+- id: bohemian
+  name: Bohemian
+- id: vintage-inspired
+  name: Vintage Inspired
+- id: romantic
+  name: Romantic
+- id: take-back-program
+  name: Take Back Program
+- id: fiber-to-fiber
+  name: Fiber To Fiber
+- id: timeless-design
+  name: Timeless Design
+- id: versatile
+  name: Versatile
+- id: water-saving
+  name: Water Saving
+- id: reduced-chemicals
+  name: Reduced Chemicals
+- id: transparent-pricing
+  name: Transparent Pricing
+- id: ethical-factories
+  name: Ethical Factories
+- id: denim
+  name: Denim
+- id: ethical-wages
+  name: Ethical Wages
+- id: ethical
+  name: Ethical
+- id: sustainable-materials
+  name: Sustainable Materials
+- id: recycling-platform
+  name: Recycling Platform
+- id: uk-brand
+  name: Uk Brand
+- id: scandinavian
+  name: Scandinavian
+- id: transparent
+  name: Transparent
+- id: selvedge-denim
+  name: Selvedge Denim
+- id: gender-inclusive
+  name: Gender Inclusive
+- id: material-traceability
+  name: Material Traceability
+- id: cruelty-free
+  name: Cruelty Free
+- id: oeko-tex
+  name: Oeko Tex
+- id: purpose-driven
+  name: Purpose Driven
+- id: low-emissions
+  name: Low Emissions
+- id: accessible
+  name: Accessible
+- id: black-owned
+  name: Black Owned
+- id: feminine
+  name: Feminine
+- id: bespoke
+  name: Bespoke
+- id: african-inspired
+  name: African Inspired
+- id: italian-leather
+  name: Italian Leather
+- id: extended-sizing
+  name: Extended Sizing
+- id: resale-program
+  name: Resale Program
+- id: compostable
+  name: Compostable
+- id: ethical-pioneer
+  name: Ethical Pioneer
+- id: recycled-pet
+  name: Recycled Pet
+- id: direct-trade
+  name: Direct Trade
+- id: bio-based
+  name: Bio Based
+- id: eco-friendly
+  name: Eco Friendly
+- id: buy-back-program
+  name: Buy Back Program
+- id: resale
+  name: Resale
+- id: made-in-canada
+  name: Made In Canada
+- id: climate-neutral
+  name: Climate Neutral
+- id: non-toxic
+  name: Non Toxic
+- id: traceable-diamonds
+  name: Traceable Diamonds
+- id: fair-labor
+  name: Fair Labor
+- id: peta-approved
+  name: Peta Approved
+- id: biodegradable-packaging
+  name: Biodegradable Packaging
+- id: recycled-denim
+  name: Recycled Denim
+- id: season-less
+  name: Season Less
+- id: profit-sharing
+  name: Profit Sharing
+- id: charitable
+  name: Charitable
+- id: free-repairs
+  name: Free Repairs
+- id: fair-trade-gold
+  name: Fair Trade Gold
+- id: artisanal
+  name: Artisanal
+- id: conservation-partnerships
+  name: Conservation Partnerships
+- id: ocean-protection
+  name: Ocean Protection
+- id: social-impact
+  name: Social Impact
+- id: ethical-employment
+  name: Ethical Employment
+- id: materials-science
+  name: Materials Science
+- id: compostable-packaging
+  name: Compostable Packaging
+- id: handwoven
+  name: Handwoven
+- id: repair-program
+  name: Repair Program
+- id: pioneer
+  name: Pioneer
+- id: hemp
+  name: Hemp
+- id: inclusive
+  name: Inclusive
+- id: diverse-nude-tones
+  name: Diverse Nude Tones
+- id: sensitive-skin
+  name: Sensitive Skin
+- id: plastic-free-packaging
+  name: Plastic Free Packaging
+- id: luxury-materials
+  name: Luxury Materials
+- id: vintage
+  name: Vintage
+- id: regenerative-fabrics
+  name: Regenerative Fabrics
+- id: machine-washable
+  name: Machine Washable
+- id: ocean-plastic
+  name: Ocean Plastic
+- id: renewable-energy
+  name: Renewable Energy
+- id: french-fashion
+  name: French Fashion
+- id: contemporary
+  name: Contemporary
+- id: la-style
+  name: La Style
+- id: recycling-program
+  name: Recycling Program
+- id: pvc-free
+  name: Pvc Free
+- id: fair-made
+  name: Fair Made
+- id: crowdfunding
+  name: Crowdfunding
+- id: global-impact
+  name: Global Impact
+- id: water-based-inks
+  name: Water Based Inks
+- id: organic-materials
+  name: Organic Materials
+- id: biodegradable
+  name: Biodegradable
+- id: recyclable
+  name: Recyclable
+- id: sustainable-shipping
+  name: Sustainable Shipping
+- id: lifestyle-brand
+  name: Lifestyle Brand
+- id: cradle-to-cradle
+  name: Cradle To Cradle
+- id: custom-fit
+  name: Custom Fit
+- id: made-to-order
+  name: Made To Order
+- id: vegetable-tanned
+  name: Vegetable Tanned
+- id: capsule-wardrobe
+  name: Capsule Wardrobe
+- id: coconut-fiber
+  name: Coconut Fiber
+- id: eco-wetsuits
+  name: Eco Wetsuits
+- id: 3d-knit
+  name: 3d Knit
+- id: antibacterial
+  name: Antibacterial
+- id: climate-positive
+  name: Climate Positive
+- id: limited-edition
+  name: Limited Edition
+- id: linen
+  name: Linen
+- id: solar-powered
+  name: Solar Powered
+- id: zero-carbon
+  name: Zero Carbon
