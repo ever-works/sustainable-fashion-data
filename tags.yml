@@ -604,47 +604,35 @@
   name: Stretch Denim
 - id: pre-consumer
   name: Pre Consumer
-- id: eco-responsible
-  name: Eco Responsible
-- id: handcrafted
-  name: Handcrafted
-- id: ethical-manufacturing
-  name: Ethical Manufacturing
-- id: permanent-collection
-  name: Permanent Collection
-- id: ethical-production
-  name: Ethical Production
-- id: leather
-  name: Leather
-- id: plant-based-fibers
-  name: Plant Based Fibers
-- id: water-efficient
-  name: Water Efficient
+- id: activewear
+  name: Activewear
+- id: conscious
+  name: Conscious
+- id: womens-empowerment
+  name: Womens Empowerment
 - id: outdoor
   name: Outdoor
-- id: women-led
-  name: Women Led
-- id: barefoot-shoes
-  name: Barefoot Shoes
+- id: adventure
+  name: Adventure
+- id: lifetime-guarantee
+  name: Lifetime Guarantee
+- id: handbags
+  name: Handbags
+- id: certified
+  name: Certified
+- id: leather
+  name: Leather
 - id: lab-grown-diamonds
   name: Lab Grown Diamonds
-- id: repair-service
-  name: Repair Service
-- id: curve-friendly
-  name: Curve Friendly
-- id: designer
-  name: Designer
-- id: made-in-portugal
-  name: Made In Portugal
-- id: regenerative-agriculture
-  name: Regenerative Agriculture
-- id: clothing-rental
-  name: Clothing Rental
-- id: made-in-belgium
-  name: Made In Belgium
-- id: ocean-conservation
-  name: Ocean Conservation
-- id: quality-focused
-  name: Quality Focused
-- id: indigenous-empowerment
-  name: Indigenous Empowerment
+- id: apple-leather
+  name: Apple Leather
+- id: swiss
+  name: Swiss
+- id: outdoor-gear
+  name: Outdoor Gear
+- id: seasonless
+  name: Seasonless
+- id: made-in-nz
+  name: Made In Nz
+- id: hand-loomed
+  name: Hand Loomed
