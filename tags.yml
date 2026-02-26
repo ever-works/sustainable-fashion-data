@@ -63,7 +63,7 @@
 - id: zero-waste
   name: Zero Waste
 - id: gots-certified
-  name: Gots Certified
+  name: GOTS Certified
 - id: vegan
   name: Vegan
 - id: size-inclusive
@@ -330,3 +330,277 @@
   name: Solar Powered
 - id: zero-carbon
   name: Zero Carbon
+- id: made-in-france
+  name: Made In France
+- id: local-production
+  name: Local Production
+- id: short-supply-chain
+  name: Short Supply Chain
+- id: japanese
+  name: Japanese
+- id: natural-dye
+  name: Natural Dye
+- id: selvedge
+  name: Selvedge
+- id: workwear
+  name: Workwear
+- id: australian
+  name: Australian
+- id: surf-inspired
+  name: Surf Inspired
+- id: made-in-australia
+  name: Made In Australia
+- id: raincoats
+  name: Raincoats
+- id: finnish
+  name: Finnish
+- id: plant-leather
+  name: Plant Leather
+- id: natural-materials
+  name: Natural Materials
+- id: british
+  name: British
+- id: norwegian
+  name: Norwegian
+- id: comfort-first
+  name: Comfort First
+- id: oslo
+  name: Oslo
+- id: reusable
+  name: Reusable
+- id: colorful
+  name: Colorful
+- id: french-design
+  name: French Design
+- id: rental
+  name: Rental
+- id: preloved
+  name: Preloved
+- id: innovative-sizing
+  name: Innovative Sizing
+- id: long-lasting
+  name: Long Lasting
+- id: fairtrade
+  name: Fairtrade
+- id: recycled
+  name: Recycled
+- id: danish
+  name: Danish
+- id: maternity
+  name: Maternity
+- id: swedish
+  name: Swedish
+- id: innovative
+  name: Innovative
+- id: american-made
+  name: American Made
+- id: heritage
+  name: Heritage
+- id: timeless
+  name: Timeless
+- id: bridal
+  name: Bridal
+- id: nyc
+  name: Nyc
+- id: french
+  name: French
+- id: made-in-uk
+  name: Made In Uk
+- id: local-manufacturing
+  name: Local Manufacturing
+- id: job-creation
+  name: Job Creation
+- id: locally-made
+  name: Locally Made
+- id: 100-percent-cotton
+  name: 100 Percent Cotton
+- id: allergy-free
+  name: Allergy Free
+- id: synthetic-free
+  name: Synthetic Free
+- id: water-recycling
+  name: Water Recycling
+- id: hosiery
+  name: Hosiery
+- id: streetwear
+  name: Streetwear
+- id: unisex
+  name: Unisex
+- id: spanish
+  name: Spanish
+- id: cashmere
+  name: Cashmere
+- id: sustainable
+  name: Sustainable
+- id: plantable-tags
+  name: Plantable Tags
+- id: woman-owned
+  name: Woman Owned
+- id: knitwear
+  name: Knitwear
+- id: new-zealand-wool
+  name: New Zealand Wool
+- id: locally-sourced
+  name: Locally Sourced
+- id: textile-waste
+  name: Textile Waste
+- id: loungewear
+  name: Loungewear
+- id: recycled-lace
+  name: Recycled Lace
+- id: food-waste
+  name: Food Waste
+- id: new-zealand
+  name: New Zealand
+- id: modern-basics
+  name: Modern Basics
+- id: jewelry
+  name: Jewelry
+- id: recycled-metals
+  name: Recycled Metals
+- id: european-made
+  name: European Made
+- id: kimono
+  name: Kimono
+- id: italian-made
+  name: Italian Made
+- id: yoga
+  name: Yoga
+- id: stylish
+  name: Stylish
+- id: basics
+  name: Basics
+- id: german
+  name: German
+- id: eco-materials
+  name: Eco Materials
+- id: italian
+  name: Italian
+- id: ocean-waste
+  name: Ocean Waste
+- id: traditional-craft
+  name: Traditional Craft
+- id: underwear
+  name: Underwear
+- id: chemical-free
+  name: Chemical Free
+- id: print-on-demand
+  name: Print On Demand
+- id: natural-dyes
+  name: Natural Dyes
+- id: aboriginal-art
+  name: Aboriginal Art
+- id: chic
+  name: Chic
+- id: vintage-lace
+  name: Vintage Lace
+- id: custom-sizing
+  name: Custom Sizing
+- id: natural-fibers
+  name: Natural Fibers
+- id: furniture-waste
+  name: Furniture Waste
+- id: dungarees
+  name: Dungarees
+- id: vibrant
+  name: Vibrant
+- id: slow-fashion
+  name: Slow Fashion
+- id: socks
+  name: Socks
+- id: blockprinting
+  name: Blockprinting
+- id: cheerful
+  name: Cheerful
+- id: azo-free-dyes
+  name: Azo Free Dyes
+- id: fair-wear
+  name: Fair Wear
+- id: swedish-design
+  name: Swedish Design
+- id: regenerative-wool
+  name: Regenerative Wool
+- id: business-attire
+  name: Business Attire
+- id: fair-conditions
+  name: Fair Conditions
+- id: water-reduction
+  name: Water Reduction
+- id: canadian
+  name: Canadian
+- id: silk
+  name: Silk
+- id: nontoxic-dyes
+  name: Nontoxic Dyes
+- id: alpaca
+  name: Alpaca
+- id: pfas-free
+  name: Pfas Free
+- id: sleepwear
+  name: Sleepwear
+- id: plastic-waste
+  name: Plastic Waste
+- id: block-printing
+  name: Block Printing
+- id: artisan
+  name: Artisan
+- id: elevated
+  name: Elevated
+- id: social-enterprise
+  name: Social Enterprise
+- id: children
+  name: Children
+- id: merino-wool
+  name: Merino Wool
+- id: rompers
+  name: Rompers
+- id: cozy
+  name: Cozy
+- id: recycled-cotton
+  name: Recycled Cotton
+- id: wool
+  name: Wool
+- id: essentials
+  name: Essentials
+- id: recycled-yarn
+  name: Recycled Yarn
+- id: plant-dyed
+  name: Plant Dyed
+- id: traditional
+  name: Traditional
+- id: peace-silk
+  name: Peace Silk
+- id: refugee-made
+  name: Refugee Made
+- id: nursing-bras
+  name: Nursing Bras
+- id: custom
+  name: Custom
+- id: premium
+  name: Premium
+- id: made-in-europe
+  name: Made In Europe
+- id: labor-standards
+  name: Labor Standards
+- id: adjustable
+  name: Adjustable
+- id: ocean-cleanup
+  name: Ocean Cleanup
+- id: un-recognized
+  name: Un Recognized
+- id: made-in-new-zealand
+  name: Made In New Zealand
+- id: cultural
+  name: Cultural
+- id: eco-friendly-dyes
+  name: Eco Friendly Dyes
+- id: eco-luxury
+  name: Eco Luxury
+- id: vibrant-prints
+  name: Vibrant Prints
+- id: outerwear
+  name: Outerwear
+- id: stretch-denim
+  name: Stretch Denim
+- id: pre-consumer
+  name: Pre Consumer
