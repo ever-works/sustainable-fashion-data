@@ -34,3 +34,13 @@
   name: Surf & Outdoor
 - id: outdoor-activewear
   name: Outdoor & Activewear
+- id: sleepwear
+  name: Sleepwear
+- id: womenswear
+  name: Womenswear
+- id: sustainable-fashion-brand
+  name: Sustainable Fashion Brand
+- id: outerwear
+  name: Outerwear
+- id: beauty-personal-care
+  name: Beauty & Personal Care
