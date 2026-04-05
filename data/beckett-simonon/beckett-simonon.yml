@@ -1,13 +1,19 @@
 name: Beckett Simonon
-description: Made-to-order footwear handcrafted in Bogotá, Colombia by skilled
-  artisans earning fair wages, using ethically sourced leathers from Gold-rated
-  sustainable tanneries with zero overstock through pre-order model.
+description: Beckett Simonon is a made-to-order footwear brand handcrafting
+  shoes in Bogotá, Colombia by skilled artisans earning fair wages, using
+  ethically sourced leathers from Gold-rated Leather Working Group tanneries.
+  The brand's pre-order crowdfunding model eliminates overstock waste entirely,
+  producing only what customers have already committed to buying. Where
+  traditional footwear brands overproduce and mark up prices by 5-6x through
+  retail layers, Beckett Simonon's direct-to-consumer pre-order approach
+  delivers artisan craftsmanship at accessible prices with zero inventory waste.
 source_url: https://www.beckettsimonon.com
 category: Footwear
 tags:
   - made-to-order
-  - ethical-production
-  - leather
+  - fair-wages
+  - lwg-certified
+  - zero-waste
 featured: false
 markdown: >-
   ## Overview
@@ -66,4 +72,4 @@ markdown: >-
   Affordable luxury pricing ($100-$250) made possible by eliminating middlemen
   and retail markups through direct-to-consumer model.
 brand: Beckett Simonon
-updated_at: 2026-02-26 12:09
+updated_at: 2026-04-05 00:21

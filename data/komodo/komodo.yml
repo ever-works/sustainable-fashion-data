@@ -1,13 +1,20 @@
 name: Komodo
-description: Original ethical fashion brand since 1988 using GOTS-certified
-  organic cotton and sustainable fabrics. Scored 100 on GSG Ethical score with
-  innovative eco-materials like recycled PET.
+description: Komodo is a pioneering British ethical fashion brand founded in
+  1988, creating clothing exclusively from GOTS-certified organic cotton,
+  recycled PET, and other sustainable fabrics. As the first ethical fashion
+  brand to score a perfect 100 on The Good Shopping Guide's Ethical Index and a
+  1% for the Planet member, the brand has nearly four decades of verified
+  sustainability leadership. Where fast fashion brands greenwash with vague
+  claims, Komodo's perfect industry scores and decades-long commitment to
+  organic materials prove enduring ethical fashion is commercially viable.
 source_url: https://www.komodo.co.uk
 category: Contemporary Fashion
 tags:
   - gots-certified
   - ethical-pioneer
   - recycled-pet
+  - organic-cotton
+  - 1-percent-for-the-planet
 featured: true
 markdown: >-
   ## Overview
@@ -68,4 +75,4 @@ markdown: >-
   Nearly 40 years as pioneer of ethical fashion, maintaining commitment to
   sustainability since inception.
 brand: Komodo
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

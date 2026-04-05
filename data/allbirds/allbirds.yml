@@ -1,67 +1,136 @@
 name: Allbirds
-description: Certified B Corp creating sustainable shoes and apparel from
-  innovative materials including wool, tree fibers, and SweetFoam (world's first
-  carbon-negative EVA). Sources sustainable fabrics like organic cotton and
-  Tencel.
+description: Allbirds is a footwear and apparel brand creating everyday shoes
+  from innovative natural materials including ZQ-certified merino wool,
+  eucalyptus tree fiber, and SweetFoam sugarcane-based soles, while pioneering
+  the first carbon footprint labels on consumer products. By replacing
+  petroleum-based foams and synthetic textiles with plant-derived, rapidly
+  renewable materials, the brand dramatically reduces the carbon footprint of
+  footwear manufacturing. Where traditional shoe companies rely on fossil
+  fuel-derived materials and opaque environmental claims, Allbirds' radical
+  transparency — including labeling every product's exact carbon footprint —
+  gives consumers genuine accountability alongside comfortable,
+  naturally-engineered design.
 source_url: https://www.allbirds.com
 category: Footwear
 tags:
+  - carbon-neutral
+  - zq-certified
+  - natural-materials
+  - carbon-labeled
+  - renewable-materials
+  - open-source-materials
   - b-corp
-  - carbon-negative
-  - innovative-materials
+  - sustainable-footwear
 featured: true
 markdown: >-
   ## Overview
 
 
-  Allbirds is a certified B Corp footwear and apparel brand known for innovation
-  in sustainable materials and carbon-negative products.
+  Founded in 2014 by NFL player Tim Brown and biotechnology engineer Joey
+  Zwillinger, Allbirds combines performance materials science with sustainable
+  design. The brand creates footwear and apparel from renewable natural
+  materials.
 
 
   ## Sustainability Features
 
 
-  - Certified B Corporation
+  - ZQ-certified merino wool from regenerative farming
 
-  - Carbon-negative SweetFoam material
+  - FSC-certified eucalyptus tree fiber
 
-  - Wool sourced from ethical farms
+  - SweetFoam soles made with sugarcane-derived material
 
-  - Tree materials from FSC-certified groves
+  - Carbon footprint labeling on all products
 
-  - Uses some of the most sustainable fabrics in the world
+  - Carbon neutral operations
 
-  - Transparent about environmental impact
+  - Open-sourced carbon footprinting methodology
 
 
   ## Materials
 
 
-  - Merino wool from ethical farms
+  ### ZQ Merino Wool
 
-  - Tree fiber from FSC-certified forests
+  - Certified by ZQ standard for animal welfare and farm practices
 
-  - SweetFoam (world's first green, carbon-negative EVA)
-
-  - Organic cotton
-
-  - Tencel
-
-  - Recycled nylon
+  - Soft, temperature-regulating, and odor-resistant
 
 
-  ## Product Range
+  ### Eucalyptus Tree Fiber
+
+  - FSC-certified
+
+  - Cool, lightweight, and breathable
+
+  - Requires minimal water and closed-loop processing
 
 
-  Footwear including sneakers, slip-ons, and running shoes, plus apparel
-  including activewear and basics.
+  ### SweetFoam
+
+  - Sugarcane-derived EVA foam
+
+  - First shoe with carbon-negative green sole
 
 
-  ## Innovation
+  ### TrinoXO
+
+  - Blend of ZQ merino wool and recycled coffee grounds
+
+  - Moisture-wicking, odor-reducing properties
 
 
-  Allbirds continuously innovates with sustainable materials, pioneering
-  carbon-negative foams and plant-based textiles that don't compromise on
-  comfort or performance.
+  ### P.U.R.E. Technology
+
+  - Plastic-free upper made with recycled materials
+
+  - Reduces environmental footprint of the shoe body
+
+
+  ## Certifications
+
+  - B Corp certified
+
+  - Climate Neutral certified
+
+  - ZQ certified wool
+
+  - FSC certified materials
+
+
+  ## Products
+
+  - Wool Runner sneakers
+
+  - Tree Dashers running shoes
+
+  - Tree Flyer performance runners
+
+  - Everyday loungewear and apparel
+
+  - Accessories and socks
+
+  - Seasonal variations and colorways
+
+
+  ## Business Model
+
+  - Direct-to-consumer
+
+  - Carbon footprint transparency
+
+  - Open-source sustainability data sharing
+
+  - $180+ million in revenue as of recent years
+
+  - Going public (IPO)
+
+
+  ## Pricing
+
+
+  $$ - Premium pricing: typically $95-$145 for shoes, $50-$100 for apparel.
 brand: Allbirds
-updated_at: 2026-02-26 08:57
+brand_logo_url: https://images.allbirds.com/image/upload/f_auto,q_auto/front/production/filer_public/96/6696f2a5-ef84-41a5-b879-f5d7e3a7c5a6/allbirds_logo.png
+updated_at: 2026-04-05 00:21

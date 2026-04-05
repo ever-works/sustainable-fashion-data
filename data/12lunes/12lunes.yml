@@ -1,13 +1,19 @@
 name: 12LUNES
-description: French streetwear brand from Clermont-Ferrand inspired by the
-  night, working with local workshops and eco-responsible materials to offer
-  quality clothing designed in France for men and women.
+description: 12LUNES is a French streetwear brand from Clermont-Ferrand that
+  produces moon-inspired, urban clothing using eco-responsible materials
+  manufactured in local French workshops. By prioritizing domestic production
+  over overseas mass manufacturing, the brand reduces carbon emissions while
+  preserving French textile craftsmanship and supporting local artisans.
+  Compared to fast fashion streetwear brands that rely on exploitative global
+  supply chains, 12LUNES delivers distinctive, durable designs with a far
+  lighter environmental footprint.
 source_url: https://12lunes.com/en
 category: Casual Wear
 tags:
-  - streetwear
   - made-in-france
   - eco-responsible
+  - streetwear
+  - local-production
 featured: false
 markdown: >-
   ## Overview
@@ -60,4 +66,4 @@ markdown: >-
 
   Mid-range pricing for French-made eco-responsible streetwear.
 brand: 12LUNES
-updated_at: 2026-02-26 12:09
+updated_at: 2026-04-05 00:21

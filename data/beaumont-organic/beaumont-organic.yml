@@ -1,13 +1,20 @@
 name: Beaumont Organic
-description: British sustainable fashion brand using GOTS certified organic
-  cotton, linen, and lyocell. Designed in the UK and produced in Europe with
-  transparent supplier information and ethical practices.
+description: Beaumont Organic is a British sustainable fashion brand designing
+  GOTS-certified organic cotton, linen, and TENCEL™ lyocell pieces in the UK and
+  producing them in transparent, ethical European factories. By sourcing fully
+  certified natural fibers and publishing supplier details for every garment,
+  the brand offers verifiable sustainability rather than vague greenwashing
+  claims. Where mainstream British fashion houses hide behind opaque supply
+  chains and pesticide-heavy conventional cotton, Beaumont Organic's GOTS
+  certification and European production provide full transparency from field to
+  finished garment.
 source_url: https://www.beaumontorganic.com
 category: Women's Fashion
 tags:
-  - organic
   - gots-certified
-  - transparent
+  - organic-cotton
+  - made-in-uk
+  - tencel
 featured: false
 markdown: >-
   ## Overview
@@ -58,72 +65,5 @@ markdown: >-
   - Certified organic materials
 
   - Ethical production standards
-
-
-  ## Product Range
-
-
-  - Dresses and jumpsuits
-
-  - Tops and blouses
-
-  - Knitwear
-
-  - Trousers and skirts
-
-  - Outerwear and jackets
-
-  - Loungewear
-
-
-  Timeless, elegant designs for women.
-
-
-  ## Sustainability Features
-
-
-  - Organic farming practices
-
-  - No toxic pesticides
-
-  - Water conservation
-
-  - Reduced carbon footprint
-
-  - Biodegradable materials
-
-  - Recyclable packaging
-
-  - Transparent practices
-
-
-  ## Design Philosophy
-
-
-  - Classic, elegant styles
-
-  - Versatile wardrobe pieces
-
-  - Quality over quantity
-
-  - Timeless aesthetic
-
-  - Contemporary fits
-
-  - Seasonless collections
-
-
-  ## Transparency
-
-
-  Provides detailed information about fabric suppliers, factories, and
-  environmental impact for each collection.
-
-
-  ## Pricing
-
-
-  Mid to premium range, typically £50-£250 per item, reflecting organic
-  materials and European production.
 brand: Beaumont Organic
-updated_at: 2026-02-26 12:17
+updated_at: 2026-04-05 00:21

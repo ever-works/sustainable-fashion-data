@@ -1,13 +1,20 @@
 name: Honest Basics
-description: Sustainable basics brand offering friendly prices for everyday
-  essentials. Focuses on making sustainable fashion accessible through
-  affordable organic basics.
+description: Honest Basics is a sustainable basics brand making organic everyday
+  essentials accessible through friendly pricing that removes the premium
+  barrier typically associated with ethical fashion. By focusing on wardrobe
+  fundamentals rather than trend-driven pieces, the brand minimizes waste while
+  proving sustainable fashion doesn't require luxury budgets. Where conventional
+  basics flood the market with cheap synthetic blends that degrade quickly,
+  Honest Basics delivers organic, long-lasting essentials at prices that make
+  conscious consumption achievable for everyday shoppers.
 source_url: https://www.honest-basics.com
 category: Basics & Essentials
 tags:
   - affordable
-  - organic
-  - accessible
+  - organic-basics
+  - anti-fast-fashion
+  - accessible-sustainability
+  - everyday-essentials
 featured: false
 markdown: >-
   ## Overview
@@ -63,4 +70,4 @@ markdown: >-
   Proves sustainable fashion doesn't have to be expensive, making ethical
   choices available to everyone through honest, affordable basics.
 brand: Honest Basics
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

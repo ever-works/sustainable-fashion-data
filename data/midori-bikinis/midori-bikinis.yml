@@ -1,13 +1,22 @@
 name: Midori Bikinis
-description: Sustainable swimwear brand offering UPF50+ bikinis made with
-  OEKO-TEX certified fabric. Eco-friendly, ethically made, and designed to last
-  in sizes XXS-XXL.
+description: Midori Bikinis is a sustainable swimwear brand producing
+  small-batch UPF50+ bikinis and swimsuits from OEKO-TEX certified fabrics,
+  ensuring every garment is free from harmful chemicals while protecting skin
+  from UV damage. By manufacturing ethically in limited runs with a perfect fit
+  guarantee, the brand delivers swimwear designed to last seasons rather than a
+  single holiday. Where fast fashion swimwear relies on cheap synthetic elastane
+  that degrades quickly and sheds microplastics into oceans, Midori Bikinis
+  combines certified eco-friendly materials with genuine size inclusivity
+  (XXS-XXL) and durability-focused construction.
 source_url: https://midoribikinis.com
 category: Swimwear
 tags:
   - upf-protection
-  - oeko-tex
+  - oeko-tex-certified
   - size-inclusive
+  - eco-friendly-fabrics
+  - small-batch
+  - ethical-production
 featured: false
 markdown: >-
   ## Overview
@@ -66,4 +75,4 @@ markdown: >-
   Offers comprehensive size range from XXS to XXL, making sustainable swimwear
   accessible to all body types.
 brand: Midori Bikinis
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

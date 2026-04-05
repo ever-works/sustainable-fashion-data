@@ -1,13 +1,23 @@
 name: Brilliant Earth
-description: Pioneer in ethical jewelry movement since 2005 offering completely
-  traceable diamonds and gemstones. Uses 93% recycled precious metals with
-  blockchain technology and carbon-neutral shipping.
+description: Brilliant Earth is a pioneer in ethical fine jewelry, offering
+  completely traceable diamonds and gemstones verified through blockchain
+  technology while using 93% recycled precious metals across its collections.
+  The brand goes beyond conflict-free sourcing to provide mine-to-finger
+  transparency, including its exclusive Origin Collection with diamonds
+  traceable to specific ethical mines in Botswana, Canada, and beyond. Where
+  traditional jewelry brands source from opaque mining supply chains linked to
+  human rights abuses and environmental devastation, Brilliant Earth's
+  blockchain traceability, recycled metal sourcing, and carbon-neutral shipping
+  demonstrate that luxury jewelry can be both beautiful and fully accountable.
 source_url: https://www.brilliantearth.com
 category: Jewelry
 tags:
-  - conflict-free
   - blockchain-traceability
-  - carbon-neutral
+  - recycled-precious-metals
+  - conflict-free
+  - carbon-neutral-shipping
+  - beyond-conflict-free
+  - transparent-supply-chain
 featured: true
 markdown: >-
   ## Overview
@@ -38,7 +48,7 @@ markdown: >-
 
   - Origin collection features diamonds traceable to specific mines
 
-  - Mines in Botswana, Canada, and Russia with full transparency
+  - Mines in Botswana, Canada, and beyond with full transparency
 
   - Blockchain platform tracks diamond journey
 
@@ -70,4 +80,4 @@ markdown: >-
   Premium pricing (over $500) reflects quality, ethics, and complete
   traceability throughout supply chain.
 brand: Brilliant Earth
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

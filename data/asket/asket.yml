@@ -1,13 +1,20 @@
 name: ASKET
-description: Swedish minimalist menswear brand following slow fashion philosophy
-  with transparent pricing and full supply chain traceability. Creates timeless,
-  well-made clothing designed to last with complete transparency.
+description: ASKET is a Swedish permanent-collection menswear brand with
+  complete supply chain traceability and cost transparency, publishing full
+  impact receipts showing the exact environmental footprint of every garment.
+  Every piece is designed as a long-term essential with no seasonal releases,
+  challenging fashion's relentless trend cycle. Where fast fashion brands
+  encourage constant wardrobing with new drops and opaque markups, ASKET's
+  permanent collection and radical pricing transparency prove that quality
+  basics can be produced and purchased with full accountability.
 source_url: https://www.asket.com
 category: Menswear
 tags:
-  - minimalist
-  - transparent
+  - permanent-collection
+  - supply-chain-transparency
+  - cost-transparency
   - slow-fashion
+  - impact-receipt
 featured: true
 markdown: >-
   ## Overview
@@ -85,29 +92,5 @@ markdown: >-
 
 
   All available in multiple sizes and lengths for perfect fit.
-
-
-  ## Sustainability Practices
-
-
-  - Carbon offset shipping
-
-  - Plastic-free packaging
-
-  - Certified factories
-
-  - Circular design principles
-
-  - Repair and care services
-
-  - Take-back program
-
-
-  ## Pricing
-
-
-  Mid to premium range with full transparency, typically €40-€200+ depending on
-  item, with detailed cost breakdowns showing material, labor, transport, and
-  markup.
 brand: ASKET
-updated_at: 2026-02-26 12:17
+updated_at: 2026-04-05 00:21

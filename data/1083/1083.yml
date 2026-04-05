@@ -1,13 +1,20 @@
 name: "1083"
-description: French sustainable denim brand producing jeans locally in France
-  with short supply chains, reducing environmental impact through proximity
-  manufacturing and supporting local textile industry.
+description: 1083 is a French sustainable denim brand that manufactures jeans
+  locally in France, keeping its entire supply chain within 1,083 kilometers of
+  consumers to radically cut transportation emissions. Using proximity
+  manufacturing and organic cotton, the brand supports the revived French
+  textile industry while offering durable, well-crafted denim at prices
+  comparable to mainstream brands. Unlike fast fashion denim produced in distant
+  factories with heavy carbon footprints, 1083 proves that locally made,
+  transparently priced jeans can be both affordable and environmentally
+  responsible.
 source_url: https://www.1083.fr
 category: Denim
 tags:
   - made-in-france
-  - local-production
+  - organic-cotton
   - short-supply-chain
+  - transparent-pricing
 featured: false
 markdown: >-
   ## Overview
@@ -62,4 +69,4 @@ markdown: >-
 
   Mid-range pricing for French-made sustainable denim.
 brand: "1083"
-updated_at: 2026-02-26 10:38
+updated_at: 2026-04-05 00:21

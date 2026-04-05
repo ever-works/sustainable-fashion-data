@@ -1,13 +1,23 @@
 name: Ninety Percent
-description: Ethical fashion brand that donates 90% of its profits to garment
-  workers and charitable causes. Uses sustainable materials like organic cotton,
-  Tencel, and hemp.
+description: Ninety Percent is a contemporary fashion brand operating on a
+  revolutionary profit-sharing model that distributes 90% of its profits between
+  the garment workers who make the clothes and charitable causes chosen by
+  customers. Using sustainable materials like organic cotton, Tencel, and hemp
+  throughout its collections, the brand addresses both the environmental toll of
+  textile production and the extreme compensation inequality prevalent in
+  fashion's supply chain. Where conventional brands retain nearly all profits
+  while underpaying garment workers, Ninety Percent's transparent profit-split
+  model ensures the people making the clothes share meaningfully in the
+  financial rewards.
 source_url: https://ninetypercent.com
 category: Contemporary Fashion
 tags:
   - profit-sharing
   - organic-cotton
-  - charitable
+  - tencel
+  - hemp
+  - worker-empowerment
+  - transparent-supply-chain
 featured: true
 markdown: >-
   ## Overview
@@ -56,4 +66,4 @@ markdown: >-
   Customers can choose which charitable causes receive a share of profits from
   their purchase, creating direct impact through their shopping decisions.
 brand: Ninety Percent
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

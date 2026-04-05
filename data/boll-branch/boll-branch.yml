@@ -1,13 +1,23 @@
 name: Boll & Branch
-description: Luxury sustainable sleepwear and home textile brand using 100%
-  organic cotton. GOTS certified and OEKO-TEX Standard 100 certified, creating
-  ethically-made, premium pajamas and bedding.
+description: Boll & Branch is a luxury sleepwear and home textile brand using
+  100% GOTS-certified organic cotton that eliminates the pesticide contamination
+  and toxic chemical processing endemic to conventional cotton farming. Every
+  product is independently certified by OEKO-TEX Standard 100 for chemical
+  safety and produced through Fair Trade partnerships that guarantee living
+  wages for factory workers. Where mainstream bedding brands treat their
+  products as disposable commodities made with conventionally grown cotton and
+  undisclosed chemical inputs, Boll & Branch proves that premium sleep can
+  coexist with rigorously verified organic sourcing, worker welfare, and
+  complete chemical transparency.
 source_url: https://www.bollandbranch.com
 category: Basics & Essentials
 tags:
-  - organic
-  - luxury
   - gots-certified
+  - fair-trade
+  - oeko-tex-certified
+  - organic-cotton
+  - chemical-free
+  - luxury-sleepwear
 featured: false
 markdown: >-
   ## Overview
@@ -161,4 +171,4 @@ markdown: >-
   Luxury organic sleepwear and textiles, typically $80-$200 for pajamas,
   reflecting GOTS certified organic cotton and fair trade practices.
 brand: Boll & Branch
-updated_at: 2026-02-26 12:17
+updated_at: 2026-04-05 00:21

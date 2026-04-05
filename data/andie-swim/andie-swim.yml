@@ -1,13 +1,20 @@
 name: Andie Swim
-description: Premium women's swimwear from recycled nylon made from reclaimed
-  fishing nets and ocean waste, committed to ethical manufacturing with fair
-  labor practices and dedicated sustainability transparency page.
+description: Andie Swim creates premium women's swimwear from recycled nylon
+  ECONYL regenerated from discarded fishing nets and ocean waste, offering
+  size-inclusive designs (XS-3X) with full transparency about ethical factory
+  practices and environmental impact. By transforming ocean plastic into
+  functional, stylish swimwear, the brand actively removes waste from marine
+  ecosystems while providing fair labor conditions in its manufacturing
+  facilities. Where conventional swimwear relies on virgin nylon derived from
+  petroleum and opaque factory systems, Andie Swim delivers ocean-positive,
+  ethically made garments with honest sustainability reporting.
 source_url: https://andieswim.com
 category: Swimwear
 tags:
   - recycled-nylon
   - ocean-waste
   - ethical-manufacturing
+  - size-inclusive
 featured: false
 markdown: >-
   ## Overview
@@ -63,4 +70,4 @@ markdown: >-
 
   Mid-range to premium pricing for sustainable recycled swimwear.
 brand: Andie Swim
-updated_at: 2026-02-26 12:09
+updated_at: 2026-04-05 00:21

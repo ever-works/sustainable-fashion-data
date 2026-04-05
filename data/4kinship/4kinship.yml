@@ -1,13 +1,19 @@
 name: 4KINSHIP
-description: Diné woman-owned upcycled clothing brand (formerly Orenda Tribe)
-  transforming found fabrics into modern wearable art. Hand-painted designs by
-  local artisans with most pieces one-of-a-kind.
+description: 4KINSHIP is a Diné woman-owned fashion brand that transforms
+  surplus and vintage fabrics into modern, hand-painted wearable art produced by
+  local Indigenous artisans. Nearly every piece is one-of-a-kind, ensuring
+  minimal waste while celebrating Indigenous design traditions and creating
+  economic opportunities for Native communities. Where mainstream fashion
+  exploits both labor and materials, 4KINSHIP centers Indigenous sovereignty,
+  upcycling, and artistic heritage as acts of cultural survival.
 source_url: https://www.4kinship.com
 category: Women's Fashion
 tags:
   - indigenous-owned
   - upcycled
   - one-of-a-kind
+  - artisan-made
+  - zero-waste
 featured: true
 markdown: >-
   ## Overview
@@ -68,4 +74,5 @@ markdown: >-
   Transforms waste materials into art while empowering Indigenous communities
   through the language of fashion.
 brand: 4KINSHIP
-updated_at: 2026-02-26 08:57
+brand_logo_url: https://www.4kinship.com/cdn/shop/files/4KINSHIP_Logo.png
+updated_at: 2026-04-05 00:21

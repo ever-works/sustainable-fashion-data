@@ -1,13 +1,19 @@
 name: Afends
-description: Australian brand born in Byron Bay leading the way in hemp fashion,
-  drawing inspiration from environment, streetwear, and surf culture to create
-  sustainable casual wear with eco-friendly materials.
+description: Afends is an Australian Byron Bay-born brand pioneering hemp
+  fashion rooted in surf and streetwear culture, championing hemp as a
+  low-water, zero-pesticide fiber that naturally regenerates soil health. The
+  brand integrates hemp throughout its casual wear collections, offering
+  streetwear-inspired pieces made from one of the most environmentally
+  responsible textile crops available. Unlike cotton-heavy fast fashion brands
+  that deplete water resources, Afends proves that hemp delivers durability,
+  comfort, and style with a fraction of the environmental cost.
 source_url: https://afends.com
 category: Casual Wear
 tags:
   - hemp
-  - australian
+  - australian-brand
   - surf-inspired
+  - regenerative-fibers
 featured: false
 markdown: >-
   ## Overview
@@ -61,4 +67,4 @@ markdown: >-
 
   Mid-range pricing for Australian sustainable hemp fashion.
 brand: Afends
-updated_at: 2026-02-26 10:38
+updated_at: 2026-04-05 00:21

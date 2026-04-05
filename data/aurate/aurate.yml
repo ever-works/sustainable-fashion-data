@@ -1,13 +1,18 @@
 name: Aurate
-description: Sustainable fine jewelry brand crafting delicate gold pieces made
-  with 100% recycled gold. Offers accessible luxury with ethical practices and
-  transparent pricing.
+description: Aurate is a sustainable fine jewelry brand crafting delicate pieces
+  from 100% recycled gold with transparent, direct-to-consumer pricing that
+  makes ethical luxury accessible. By eliminating newly mined metals and
+  offering conflict-free gemstones alongside lab-grown diamonds, the brand
+  significantly reduces the environmental devastation of traditional jewelry
+  mining. Where conventional jewelry relies on ecologically destructive
+  extraction and heavy retail markups, Aurate proves that recycled gold can
+  deliver beautiful, lasting design at a fraction of the cost.
 source_url: https://auratenewyork.com
 category: Jewelry
 tags:
   - recycled-gold
-  - luxury
-  - transparent
+  - conflict-free
+  - transparent-pricing
 featured: false
 markdown: >-
   ## Overview
@@ -134,4 +139,4 @@ markdown: >-
   Accessible luxury, typically $50-$800, significantly less than traditional
   fine jewelry retailers.
 brand: Aurate
-updated_at: 2026-02-26 12:17
+updated_at: 2026-04-05 00:21

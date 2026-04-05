@@ -1,13 +1,23 @@
 name: Parade
-description: Size-inclusive sustainable underwear brand using Re:Play fabric
-  made from 85% recycled polyamide. Oeko-Tex certified with compostable
-  packaging from 100% corn starch.
+description: Parade is a size-inclusive sustainable intimates brand creating
+  underwear and loungewear from Re:Play fabric — made with 85% recycled
+  polyamide diverted from ocean-bound waste — shipped in 100% cornstarch-derived
+  compostable packaging. With OEKO-TEX certified materials and an extended size
+  range that serves bodies mainstream lingerie brands ignore, the brand delivers
+  comfortable, eco-conscious undergarments that celebrate diverse bodies. Where
+  conventional underwear brands rely on virgin synthetic fabrics with toxic
+  finishes and restrictive sizing, Parade proves that recycled materials,
+  zero-plastic shipping, and genuinely inclusive sizing can coexist with fun,
+  colorful design.
 source_url: https://yourparade.com
 category: Underwear & Intimates
 tags:
-  - recycled-materials
-  - size-inclusive
+  - recycled-polyamide
   - compostable-packaging
+  - size-inclusive
+  - ocean-waste
+  - oeko-tex-certified
+  - body-positive
 featured: true
 markdown: >-
   ## Overview
@@ -22,7 +32,7 @@ markdown: >-
 
   - Core fabric Re:Play from 85% recycled polyamide
 
-  - Oeko-Tex certified materials
+  - OEKO-TEX certified materials
 
   - Compostable packaging from 100% corn starch
 
@@ -40,7 +50,7 @@ markdown: >-
 
   - Tencel™
 
-  - Oeko-Tex certified fabrics
+  - OEKO-TEX certified fabrics
 
   - Recycled materials
 
@@ -65,4 +75,4 @@ markdown: >-
   Offers extended sizing and designs for diverse body types, making sustainable
   underwear accessible to everyone.
 brand: Parade
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

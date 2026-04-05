@@ -1,13 +1,21 @@
 name: American Giant
-description: Made in USA clothing brand creating high-quality, durable garments
-  from sustainable materials like organic cotton and recycled polyester. Focused
-  on American manufacturing and longevity.
+description: American Giant is a Made in USA clothing brand crafting
+  high-quality, durable garments from organic cotton and recycled polyester,
+  with all manufacturing kept within American factories to support domestic
+  workers and minimize transportation emissions. The brand's legendary hoodies
+  are engineered to last for years, directly countering the fast fashion model
+  of planned obsolescence by building garments designed for decade-long use.
+  Where fast fashion brands outsource to the cheapest global factories and
+  design clothes to fall apart, American Giant proves that American-made,
+  sustainably sourced garments offer superior value through longevity and
+  ethical production.
 source_url: https://www.american-giant.com
 category: Casual Wear
 tags:
   - made-in-usa
   - organic-cotton
-  - durable
+  - recycled-polyester
+  - longevity-focused
 featured: true
 markdown: >-
   ## Overview
@@ -64,4 +72,4 @@ markdown: >-
   Creates exceptionally durable clothing designed to last for years, reducing
   waste and promoting sustainable consumption through longevity.
 brand: American Giant
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

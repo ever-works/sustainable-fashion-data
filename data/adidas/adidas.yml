@@ -1,13 +1,19 @@
 name: adidas
-description: Global sportswear brand achieving 10% absolute emissions reduction
-  with 100% recycled polyester across key product lines by 2026. Uses
-  third-party certified cotton and founding member of Fair Labour Association.
+description: adidas is a global sportswear brand transitioning toward
+  sustainability with 99% recycled polyester already in its products and a
+  target of 100% recycled polyester and certified strategic raw materials by
+  2026. As a founding member of the Fair Labour Association and Better Cotton
+  Initiative, the brand leverages its scale to drive industry-wide standards for
+  fair labor and ecosystem preservation. While still a mass producer, adidas's
+  measurable emissions reductions and certified material commitments represent a
+  meaningful shift within the mainstream sportswear sector.
 source_url: https://www.adidas.com
 category: Activewear
 tags:
   - recycled-polyester
+  - fair-labor-association
+  - better-cotton
   - emissions-reduction
-  - certified-cotton
 featured: true
 markdown: >-
   ## Overview
@@ -70,4 +76,5 @@ markdown: >-
   By 2026, ensures 100% of strategic raw materials are certified to standards
   guaranteeing ecosystem and water resource preservation.
 brand: adidas
-updated_at: 2026-02-26 08:57
+brand_logo_url: https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8c6f08f086464b6ca795aae360b9a961_9366/adidas_Logo_black.svg
+updated_at: 2026-04-05 00:21

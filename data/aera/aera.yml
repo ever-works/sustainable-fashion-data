@@ -1,14 +1,18 @@
 name: AERA
-description: Luxury sustainable footwear brand offering certified vegan shoes
-  made without animal products, exemplifying social and environmental
-  responsibility as a Certified B Corporation with transparent and accountable
-  practices.
+description: AERA is a Certified B Corp luxury footwear brand crafting premium
+  vegan shoes entirely without animal-derived materials. Each pair combines
+  high-fashion design with transparent, accountable supply chains verified
+  through B Corp certification. Where traditional luxury footwear relies on
+  leather and exotic skins with significant environmental and animal welfare
+  costs, AERA demonstrates that cruelty-free materials can deliver equally
+  refined quality.
 source_url: https://www.aeraworld.com
 category: Footwear
 tags:
-  - vegan
-  - luxury
   - b-corp
+  - vegan
+  - luxury-footwear
+  - cruelty-free
 featured: false
 markdown: >-
   ## Overview
@@ -65,4 +69,5 @@ markdown: >-
   Luxury price point reflecting high-quality materials and ethical production,
   typically ranging from $200-400 per pair.
 brand: AERA
-updated_at: 2026-02-26 10:38
+brand_logo_url: https://www.aeraworld.com/cdn/shop/files/AERA_LOGO.png
+updated_at: 2026-04-05 00:21

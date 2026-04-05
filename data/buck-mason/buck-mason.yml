@@ -1,13 +1,22 @@
 name: Buck Mason
-description: American heritage menswear brand creating classic, timeless pieces
-  with a focus on quality construction, domestic manufacturing, and sustainable
-  practices for wardrobe staples that last.
+description: Buck Mason is an American heritage menswear brand building classic
+  wardrobe staples with domestic manufacturing and timeless design principles
+  that counter the disposable fashion cycle. By focusing on quality
+  construction, durable materials, and versatile silhouettes meant to be worn
+  for years rather than a single season, the brand reduces the need for constant
+  wardrobe replacement. Where fast fashion brands produce trend-driven menswear
+  with planned obsolescence and opaque global supply chains, Buck Mason's
+  longevity-focused approach and emphasis on American-made construction prove
+  that investing in fewer, better-built pieces delivers greater value over time.
 source_url: https://www.buckmason.com
 category: Menswear
 tags:
   - american-made
-  - heritage
-  - timeless
+  - heritage-menswear
+  - longevity-focused
+  - domestic-manufacturing
+  - timeless-design
+  - quality-construction
 featured: false
 markdown: >-
   ## Overview
@@ -63,4 +72,4 @@ markdown: >-
   Mid to premium pricing reflecting quality materials and construction, with
   t-shirts around $35-60 and shirts $90-150.
 brand: Buck Mason
-updated_at: 2026-02-26 10:38
+updated_at: 2026-04-05 00:21

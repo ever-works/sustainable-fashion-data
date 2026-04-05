@@ -1,13 +1,23 @@
 name: Rapanui
-description: Affordable circular fashion brand from the UK with price range
-  £20-£60, focusing on sustainable basics and circular economy principles with
-  transparent production and eco-friendly materials.
+description: Rapanui is a UK-based circular fashion brand offering sustainable
+  basics at accessible prices (£20-£60) through an innovative
+  return-and-remanufacture model that turns worn garments into new products.
+  Using 100% renewable-energy-powered manufacturing and natural or recycled
+  fibers, the brand has built one of the most affordable pathways into a
+  sustainable wardrobe with full supply chain transparency. Where sustainable
+  fashion is typically locked behind premium price points, Rapanui's
+  renewable-powered factory, circular take-back system, and mass-market pricing
+  prove that ethical, eco-conscious clothing can compete directly with fast
+  fashion on cost.
 source_url: https://rapanuiclothing.com
 category: Basics & Essentials
 tags:
   - circular-economy
+  - renewable-energy
   - affordable
-  - british
+  - take-back-program
+  - transparent-production
+  - made-in-uk
 featured: false
 markdown: >-
   ## Overview
@@ -62,4 +72,4 @@ markdown: >-
 
   Highly affordable for sustainable fashion, with items ranging £20-£60.
 brand: Rapanui
-updated_at: 2026-02-26 10:38
+updated_at: 2026-04-05 00:21

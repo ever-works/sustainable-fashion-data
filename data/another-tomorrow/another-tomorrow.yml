@@ -1,13 +1,21 @@
 name: Another Tomorrow
-description: B Corporation-certified luxury brand with transparent supply chain
-  using QR codes. Uses ethical wool, organic cotton, organic linen, and recycled
-  cashmere with responsible chemical standards.
+description: "Another Tomorrow is a Certified B Corp luxury brand offering
+  complete supply chain transparency via QR codes on every garment, using
+  ethically sourced wool, GOTS-certified organic cotton, organic linen, and
+  recycled cashmere with verified responsible chemical standards. The brand
+  operates a circular resale platform on its website and pursues a three-pillar
+  mission: ethical production, consumer education, and activism. Where
+  traditional luxury brands hide behind opacity, Another Tomorrow's QR code
+  system lets every customer trace their garment's entire journey from ethical
+  wool farm to finished piece."
 source_url: https://anothertomorrow.co
 category: Luxury Fashion
 tags:
   - b-corp
-  - transparent-supply-chain
-  - circular-economy
+  - qr-transparency
+  - organic-cotton
+  - recycled-cashmere
+  - circular-fashion
 featured: true
 markdown: >-
   ## Overview
@@ -69,4 +77,4 @@ markdown: >-
   QR codes on garments provide complete information about materials, production,
   and supply chain.
 brand: Another Tomorrow
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

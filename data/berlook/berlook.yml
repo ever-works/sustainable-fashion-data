@@ -1,13 +1,20 @@
 name: BERLOOK
-description: Sustainable boutique swimwear brand recycling 2,914,567+ plastic
-  bottles into swimsuits. Uses GRS-certified recycled polyester and spandex with
-  fair trade ethical manufacturing.
+description: BERLOOK is a sustainable boutique swimwear brand that has recycled
+  over 2.9 million plastic bottles into GRS-certified swimsuits through fair
+  trade ethical manufacturing. By transforming ocean-bound and landfill-bound
+  plastic into stylish swimwear, the brand directly addresses the microplastic
+  crisis while providing full transparency about its environmental impact. Where
+  conventional swimwear relies on virgin synthetic fibers derived from
+  petroleum, BERLOOK's GRS-certified approach proves that recycled materials can
+  deliver fashion-forward design at boutique quality with verified responsible
+  production.
 source_url: https://www.berlook.com
 category: Swimwear
 tags:
   - recycled-plastic
   - grs-certified
   - fair-trade
+  - ocean-waste
 featured: false
 markdown: >-
   ## Overview
@@ -66,4 +73,4 @@ markdown: >-
   Website details fair trade and ethical manufacturing practices, providing full
   transparency about sustainability efforts.
 brand: BERLOOK
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

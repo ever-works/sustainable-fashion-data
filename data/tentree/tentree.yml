@@ -1,13 +1,25 @@
 name: tentree
-description: Sustainable apparel brand that plants 10 trees for every item
-  purchased. Uses sustainable fabrics including organic cotton and Tencel, and
-  is Climate Neutral Certified.
+description: tentree is a Canadian sustainability-focused apparel brand that has
+  planted over 150 million trees and achieved Climate Neutral certification
+  while using eco-friendly materials including organic cotton, Tencel, recycled
+  polyester, and hemp across its casual wear collections. Every garment purchase
+  directly funds verified global reforestation projects, and customers can track
+  the exact location of their planted trees through the brand's impact tracking
+  system. Where mainstream fashion brands greenwash with token environmental
+  gestures and virgin synthetic production, tentree's independently verified
+  carbon neutrality, transparent tree-planting program, and genuinely
+  sustainable material palette deliver measurable planetary impact with every
+  purchase.
 source_url: https://www.tentree.com
 category: Casual Wear
 tags:
   - tree-planting
-  - climate-neutral
+  - climate-neutral-certified
+  - 1-percent-for-the-planet
   - organic-cotton
+  - tencel
+  - recycled
+  - reforestation
 featured: true
 markdown: >-
   ## Overview
@@ -30,7 +42,9 @@ markdown: >-
 
   - Transparent about environmental impact
 
-  - Over 100 million trees planted to date
+  - Over 150 million trees planted to date
+
+  - Customer tree tracking system
 
 
   ## Materials
@@ -62,4 +76,4 @@ markdown: >-
   Each purchase contributes to global reforestation efforts, with customers able
   to track where their trees are planted through the tentree impact app.
 brand: tentree
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

@@ -1,13 +1,18 @@
 name: Abysse
-description: Sustainable swimwear brand making bikinis from 100% recycled
-  fabric. All tops are UPF50+ certified with Global Recycled Standard certified
-  recycled polyester and nylon.
+description: Abysse is a sustainable swimwear brand crafting all its bikinis
+  from 100% Global Recycled Standard (GRS) certified recycled polyester and
+  nylon, diverting plastic waste from oceans and landfills. Every top features
+  UPF50+ sun protection, combining functional design with environmental
+  responsibility. Unlike conventional swimwear that relies on virgin synthetic
+  fabrics contributing to microplastic pollution, Abysse delivers stylish,
+  protective beachwear with a verified circular material footprint.
 source_url: https://abysseofficial.com
 category: Swimwear
 tags:
-  - recycled-materials
-  - upf-protection
   - grs-certified
+  - recycled-polyester
+  - recycled-nylon
+  - upf-protection
 featured: false
 markdown: >-
   ## Overview
@@ -66,4 +71,4 @@ markdown: >-
   Global Recycled Standard certification ensures materials are genuinely
   recycled and production meets environmental standards.
 brand: Abysse
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

@@ -1,13 +1,21 @@
 name: Taylor Jay
-description: Oakland-based fair-made clothing line designing high-quality
-  eco-friendly elevated basics. Ethically sources recycled and upcycled threads
-  with Black-owned leadership.
+description: Taylor Jay is a Black-owned Oakland-based clothing line creating
+  elevated basics from recycled and upcycled threads, with every piece fair-made
+  under ethical labor conditions. By pairing post-consumer waste diversion with
+  fair-wage manufacturing, the brand tackles textile waste and labor
+  exploitation simultaneously. Where mainstream basics brands produce disposable
+  cotton garments with no traceability, Taylor Jay's upcycled-material approach
+  and Black-owned leadership deliver purposeful essentials that support both
+  circularity and economic equity.
 source_url: https://www.taylorjay.co
 category: Basics & Essentials
 tags:
   - black-owned
-  - upcycled
+  - upcycled-materials
   - fair-made
+  - oakland-made
+  - recycled-threads
+  - ethical-labor
 featured: false
 markdown: >-
   ## Overview
@@ -63,4 +71,4 @@ markdown: >-
   Black-owned brand supporting ethical manufacturing while creating high-quality
   essentials from recycled and upcycled materials.
 brand: Taylor Jay
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

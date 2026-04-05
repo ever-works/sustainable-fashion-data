@@ -1,64 +1,54 @@
 name: Quince
-description: San Francisco-based brand offering ethical and eco-friendly
-  clothing at accessible price points. Sees sustainability as the standard, not
-  a luxury, offering everything from Mulberry silk to cashmere with virgin
-  plastic-free packaging.
-source_url: https://www.onequince.com
-category: Contemporary Fashion
+description: Direct-to-consumer brand offering justly priced fine jewelry made
+  with real gold and ethically sourced stones. Sources from Responsible Jewelry
+  Council (RJC) members, providing transparent sourcing details and transparent
+  pricing comparisons, while cutting out middlemen to keep costs accessible.
+source_url: https://www.quince.com
+category: Jewelry
 tags:
   - affordable
-  - plastic-free-packaging
-  - luxury-materials
-featured: true
+  - responsibly-sourced
+  - traceable
+featured: false
 markdown: >-
   ## Overview
 
 
-  Quince makes high-quality, sustainable clothing accessible by cutting out
-  middlemen and offering luxury materials at affordable prices.
+  Quince is known for affordable premium products across multiple categories,
+  including fine jewelry made with real precious metals. The brand keeps costs
+  low by cutting out middlemen while maintaining ethical sourcing standards
+  through partnerships with Responsible Jewelry Council (RJC) members.
 
 
-  ## Sustainability Features
+  ## Sustainability & Ethics
 
 
-  - Sees sustainability as the standard, not a luxury
+  - Metals and stones ethically sourced from Responsible Jewelry Council (RJC)
+  members
 
-  - Virgin plastic-free packaging
+  - Recycled gold used in jewelry pieces
 
-  - Affordable, high-quality sustainable clothing
+  - Transparent sourcing details provided for each metal and stone
 
-  - Ethical manufacturing practices
+  - Some pieces made in the USA
 
-  - Accessible price points for luxury materials
-
-  - Transparent supply chain
-
-
-  ## Materials
-
-
-  - Mulberry silk
-
-  - Cashmere
-
-  - Organic cotton
-
-  - Merino wool
-
-  - Sustainable fabrics
+  - Transparent pricing comparisons with other brands
 
 
   ## Product Range
 
 
-  Wide range including basics, activewear, luxurious essentials, silk tops,
-  cashmere cardigans, heavyweight hoodies, and multipacks for men and women.
+  - Earrings, necklaces, rings, bracelets
+
+  - Diamond jewelry including lab-grown diamond studs
+
+  - Everyday and special occasion pieces
 
 
-  ## Pricing Philosophy
+  ## Pricing
 
 
-  Makes luxury sustainable materials accessible through direct-to-consumer
-  model, eliminating traditional retail markups.
-brand: Quince
-updated_at: 2026-02-26 08:57
+  - $30 (U-hoops) – $2,000 (lab-grown diamond studs)
+
+  - Competitively priced with transparent cost breakdowns
+updated_at: 2026-04-05 00:21

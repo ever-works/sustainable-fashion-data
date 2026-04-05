@@ -1,12 +1,20 @@
 name: RocknSocks
-description: American-made eco-friendly socks brand for women and men, creating
-  sustainable hosiery with domestic production and environmentally responsible
-  materials and practices.
+description: RocknSocks is an American-made eco-friendly socks brand producing
+  sustainable hosiery domestically, eliminating the overseas labor exploitation
+  and carbon-heavy shipping endemic to conventional footwear accessories. By
+  combining responsible material sourcing with local manufacturing, the brand
+  delivers comfortable, well-made socks in both women's and men's sizes while
+  supporting American workers. Where mainstream sock brands offshore production
+  to unregulated factories with cheap synthetic materials, RocknSocks proves
+  that domestically manufactured, environmentally conscious hosiery can compete
+  on quality and comfort.
 source_url: https://rocknsocks.com
 category: Accessories
 tags:
   - made-in-usa
   - eco-friendly
+  - domestic-manufacturing
+  - responsible-materials
   - socks
 featured: false
 markdown: >-
@@ -59,4 +67,4 @@ markdown: >-
 
   Mid-range pricing for American-made eco-friendly socks.
 brand: RocknSocks
-updated_at: 2026-02-26 10:38
+updated_at: 2026-04-05 00:21

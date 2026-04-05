@@ -1,13 +1,24 @@
 name: Boldwill
-description: Dutch sportswear brand (formerly Iron Roots) pioneering
-  plastic-free activewear from plant-based fabrics. Uses hemp, eucalyptus,
-  beechwood, and organic cotton with local European production.
+description: Boldwill is a Dutch sportswear brand (formerly Iron Roots)
+  pioneering 100% plastic-free activewear using plant-based fabrics including
+  hemp, eucalyptus, beechwood, and organic cotton, all produced locally in
+  European factories. By eliminating petroleum-derived polyester and nylon —
+  which shed microplastics into waterways with every wash — the brand delivers
+  genuinely high-performance activewear without the hidden environmental cost of
+  synthetic fibers. Where mainstream sportswear brands load every collection
+  with microplastic-shedding synthetics, Boldwill proves that natural
+  plant-based fibers can match or exceed the performance of conventional
+  athletic fabrics.
 source_url: https://www.boldwill.com
 category: Activewear
 tags:
   - plastic-free
   - plant-based
+  - microplastic-free
+  - hemp
+  - eucalyptus-fabric
   - circular-fashion
+  - take-back-program
 featured: true
 markdown: >-
   ## Overview
@@ -71,4 +82,4 @@ markdown: >-
   Proves that high-performance athletic wear doesn't require synthetic plastics,
   using natural materials with equivalent or better performance.
 brand: Boldwill
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

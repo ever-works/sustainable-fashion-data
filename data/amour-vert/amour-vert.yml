@@ -1,65 +1,68 @@
 name: Amour Vert
-description: Original sustainable fashion brand in USA making 97% of clothing
-  domestically using sustainable fabrics like TENCEL, organic cotton, and hemp.
-  Plants a tree for every tee sold.
+description: Amour Vert is a pioneering US sustainable fashion brand producing
+  97% of its collections domestically using responsibly sourced fabrics
+  including TENCEL, organic cotton, and hemp, and planting one tree for every
+  tee sold through its reforesting partnership. The brand's Made in USA
+  production ensures shorter supply chains, lower transportation footprints, and
+  verifiable US labor standards. Where fast fashion brands ship garments halfway
+  around the world while using water-intensive conventional cotton, Amour Vert's
+  domestic production and tree-planting commitment actively restore ecosystems
+  rather than extract from them.
 source_url: https://amourvert.com
 category: Women's Fashion
 tags:
   - made-in-usa
-  - tree-planting
   - tencel
-featured: true
+  - organic-cotton
+  - tree-planting
+  - hemp
+featured: false
 markdown: >-
   ## Overview
 
 
-  Amour Vert stands at the intersection of high fashion and high sustainability,
-  proving style and environmental stewardship can go hand in hand.
+  Amour Vert is a pioneering US sustainable fashion brand producing domestically
+  using sustainably sourced fabrics.
 
 
   ## Sustainability Features
 
 
-  - Makes 97% of clothing in the USA
+  - 97% of clothing made in the USA
 
-  - Plants a tree for every tee sold
+  - TENCEL, organic cotton, and hemp fabrics
 
-  - Innovates sustainable, soft, durable materials
+  - Plants one tree for every tee sold
 
-  - Reduces environmental impact in fabric manufacturing
+  - Short supply chains from domestic production
 
-  - Focus on domestic production
-
-  - Transparent supply chain
+  - Lower carbon emissions from local manufacturing
 
 
   ## Materials
 
 
-  - TENCEL™
+  - TENCEL Lyocell
 
   - Organic cotton
 
-  - Certified silk
-
-  - Ethical wool
-
   - Hemp
 
-  - Sustainable innovative fabrics
+  - Sustainable fabric blends
 
 
   ## Product Range
 
 
-  Women's contemporary fashion including dresses, tops, pants, and basics with
-  French-inspired aesthetic.
+  Women's apparel including dresses, tops, bottoms, and essentials made in the
+  USA.
 
 
-  ## Local Manufacturing
+  ## Impact
 
 
-  By producing 97% of garments in the USA, Amour Vert ensures quality control,
-  fair labor, and reduced transportation emissions.
-brand: Amour Vert
-updated_at: 2026-02-26 08:57
+  Through partnerships with reforestation organizations, Amour Vert has planted
+  over 400,000 trees. Every tee purchase contributes directly to global
+  reforestation efforts.
+brand_logo_url: https://amourvert.com/cdn/shop/files/AmourVert_Logo.png
+updated_at: 2026-04-05 00:21

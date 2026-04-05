@@ -1,13 +1,21 @@
 name: Alexandra K
-description: Luxurious vegan handbag label designing and producing bags in
-  Europe from innovative sustainable materials including corn pulp vegan
-  leather, Piñatex pineapple fibers, and recycled textiles.
+description: Alexandra K is a luxury vegan handbag label designing and crafting
+  premium bags in Europe from innovative plant-based materials including corn
+  pulp leather, Piñatex pineapple leaf fiber, and eco-PU. By replacing animal
+  leather with agricultural waste streams and low-impact synthetics, the brand
+  delivers high-fashion accessories without the devastating environmental toll
+  of conventional leather tanning. Where traditional luxury handbags rely on
+  animal hides processed with toxic chromium, Alexandra K proves that corn,
+  cactus, and pineapple can yield equally sophisticated craftsmanship with a
+  fraction of the carbon and water footprint.
 source_url: https://www.alexandra-k.com
 category: Accessories
 tags:
   - vegan
+  - plant-based-leather
+  - pinatex
   - luxury
-  - innovative-materials
+  - made-in-europe
 featured: false
 markdown: >-
   ## Overview
@@ -63,4 +71,4 @@ markdown: >-
 
   Luxury price point reflecting innovative materials and European craftsmanship.
 brand: Alexandra K
-updated_at: 2026-02-26 10:38
+updated_at: 2026-04-05 00:21

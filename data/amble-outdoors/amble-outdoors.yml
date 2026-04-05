@@ -1,13 +1,20 @@
 name: Amble Outdoors
-description: Australian brand creating waterproof raincoats and outdoorwear made
-  from recycled plastic bottles in Australia, offering sustainable outerwear
-  with local manufacturing and eco-friendly materials.
+description: Amble Outdoors is an Australian brand manufacturing waterproof
+  raincoats and outdoorwear from recycled plastic bottles entirely within
+  Australia, combining local production with diverted waste streams for
+  genuinely sustainable outerwear. Every garment prevents plastic bottles from
+  entering waterways while supporting Australian apparel manufacturing jobs and
+  reducing shipping emissions. Where mainstream outdoor brands produce raincoats
+  from virgin polyester in distant Asian factories, Amble Outdoors proves that
+  recycled materials and local manufacturing can deliver performance outerwear
+  with a significantly lighter carbon footprint.
 source_url: https://ambleoutdoors.com
 category: Outdoor & Activewear
 tags:
   - recycled-plastic
   - made-in-australia
-  - raincoats
+  - ocean-waste-reduction
+  - local-manufacturing
 featured: false
 markdown: >-
   ## Overview
@@ -60,4 +67,4 @@ markdown: >-
 
   Mid to premium pricing for Australian-made recycled outerwear.
 brand: Amble Outdoors
-updated_at: 2026-02-26 10:38
+updated_at: 2026-04-05 00:21

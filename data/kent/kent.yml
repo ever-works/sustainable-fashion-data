@@ -1,13 +1,22 @@
 name: KENT
-description: Sustainable underwear brand making 100% natural, organic and
-  plant-based materials. Each pair is non-toxic, vegan, and fully compostable
-  within 90 days.
+description: KENT is a sustainable underwear brand creating 100% natural,
+  plant-based undergarments that are non-toxic, vegan, and fully compostable
+  within 90 days of disposal. By eliminating synthetic fibers, chemical dyes,
+  and elastic components that persist in landfills for centuries, the brand
+  offers a genuinely circular alternative to conventional intimates. Where
+  mainstream underwear brands rely on petroleum-based synthetics and
+  non-biodegradable elastics that pollute soil and water for generations, KENT's
+  compostable design ensures intimate apparel returns safely to the earth
+  without leaving permanent waste.
 source_url: https://wearkent.com
 category: Underwear & Intimates
 tags:
   - compostable
   - plant-based
   - vegan
+  - non-toxic
+  - biodegradable
+  - circular
 featured: false
 markdown: >-
   ## Overview
@@ -63,4 +72,4 @@ markdown: >-
   Each piece breaks down completely in 90 days, ensuring no long-term
   environmental footprint from discarded underwear.
 brand: KENT
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

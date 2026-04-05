@@ -1,13 +1,22 @@
 name: Cariuma
-description: Sustainable sneaker brand offering some of the most sustainable
-  sneakers made from organic cotton, bamboo, recycled PET, and LWG-certified
-  leather dyed with low-impact inks.
+description: Cariuma is a carbon-neutral Brazilian sneaker brand crafting
+  sustainable footwear from organic cotton, bamboo, recycled PET, and
+  LWG-certified leather — planting two trees for every pair sold with over 2
+  million trees planted to date. By combining ethical Brazilian manufacturing
+  with natural rubber soles and cork insoles, the brand delivers stylish
+  sneakers with full supply chain transparency. Where mainstream sneaker brands
+  rely on synthetic petroleum materials and opaque Asian factory networks,
+  Cariuma's verified reforestation impact and natural material palette delivers
+  footwear with genuine environmental credentials.
 source_url: https://cariuma.com
 category: Footwear
 tags:
   - organic-cotton
   - bamboo
   - carbon-neutral
+  - reforestation
+  - ethical-manufacturing
+  - made-in-brazil
 featured: true
 markdown: >-
   ## Overview
@@ -62,4 +71,4 @@ markdown: >-
   Every pair of sneakers contributes to reforestation efforts, with over 2
   million trees planted in partnership with environmental organizations.
 brand: Cariuma
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

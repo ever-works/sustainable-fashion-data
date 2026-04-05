@@ -1,13 +1,21 @@
 name: MUD Jeans
-description: World's first circular denim brand recycling worn-out jeans to
-  create new ones. Uses 92% less water than average jeans and offers a Lease A
-  Jeans program.
+description: MUD Jeans is the world's first circular denim brand pioneering a
+  Lease A Jeans rental program and closed-loop recycling system that transforms
+  worn-out denim into new pairs using 92% less water than conventional jean
+  production. By offering customers the option to lease, return, and recycle
+  rather than buy and discard, the brand eliminates the linear waste model that
+  sends millions of jeans to landfills annually. Where traditional denim brands
+  consume 8,000+ liters of water per pair with no end-of-life plan, MUD Jeans
+  proves that circular fashion can deliver quality jeans while using a fraction
+  of the resources.
 source_url: https://mudjeans.eu
 category: Denim
 tags:
   - circular-economy
   - recycled-denim
   - water-saving
+  - lease-program
+  - closed-loop
 featured: true
 markdown: >-
   ## Overview
@@ -56,4 +64,4 @@ markdown: >-
   them for resale or recycles them into new denim, creating a truly circular
   system.
 brand: MUD Jeans
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

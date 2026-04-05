@@ -1,11 +1,17 @@
 name: 1/OFF Paris
-description: Luxury upcycled fashion brand making chic designs from vintage
-  designer pieces from fashion houses like Burberry, Yves Saint Laurent, and
-  Chanel. Sustainable luxury through creative repurposing.
+description: 1/OFF Paris is a luxury upcycled fashion brand that transforms
+  vintage designer pieces from heritage houses like Burberry, Yves Saint
+  Laurent, and Chanel into contemporary, one-of-a-kind garments. Each piece
+  diverts luxury textiles from landfills while offering exclusive designs that
+  mass-produced fashion cannot replicate. In contrast to the resource-intensive
+  luxury fashion industry, 1/OFF Paris proves that high-end style can coexist
+  with circular, zero-waste production.
 source_url: https://1off-paris.com
 category: Luxury Fashion
 tags:
   - upcycled
+  - circular-fashion
+  - zero-waste
   - luxury
   - vintage
 featured: true
@@ -145,4 +151,5 @@ markdown: >-
   Luxury upcycled fashion, typically €300-€2,000+, reflecting designer materials
   and expert craftsmanship.
 brand: 1/OFF Paris
-updated_at: 2026-02-26 12:17
+brand_logo_url: https://1off-paris.com/cdn/shop/files/1OFF-PARIS-Logo.png
+updated_at: 2026-04-05 00:21

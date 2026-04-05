@@ -1,13 +1,20 @@
 name: Warp + Weft
-description: Conscious denim brand using proprietary dyeing process reducing
-  water usage by 76% and recycling 98% of water. Size-inclusive sustainable
-  jeans under $100 up to 3X.
+description: Warp + Weft is a veteran denim brand with 30 years of eco-friendly
+  mill collaborations, pioneering a proprietary dyeing process that reduces
+  water usage by 76% and recycles 98% of all production water back into the
+  system. The brand delivers size-inclusive sustainable jeans up to size 3X for
+  under $100, making ethical denim accessible across body types and budgets.
+  Where conventional denim production consumes 1,400 gallons of water per pair,
+  Warp + Weft's closed-loop water recycling and affordable pricing prove that
+  responsible denim manufacturing can scale without exclusivity.
 source_url: https://warpweftworld.com
 category: Denim
 tags:
   - water-saving
   - size-inclusive
   - affordable
+  - water-recycling
+  - recycled-cotton
 featured: true
 markdown: >-
   ## Overview
@@ -62,4 +69,4 @@ markdown: >-
   Uses 1,400 fewer gallons of water per pair compared to conventional denim
   through innovative recycling and dyeing processes.
 brand: Warp + Weft
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

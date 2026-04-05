@@ -1,13 +1,21 @@
 name: Leanne Marshall
-description: American bridal designer making wedding dresses in USA using only
-  repurposed and recycled materials through zero-waste cutting techniques,
-  creating sustainable luxury bridal wear.
+description: Leanne Marshall is an American bridal designer creating wedding
+  dresses entirely from repurposed and recycled materials using zero-waste
+  cutting techniques, proving that luxury bridal fashion need not contribute to
+  textile waste. Each gown is crafted domestically in the USA from discarded
+  fabrics, ensuring that celebratory fashion doesn't come at the expense of the
+  environment. Where conventional bridal brands generate massive fabric waste
+  through single-use garments cut from virgin materials, Leanne Marshall's
+  zero-waste approach and exclusive use of repurposed textiles deliver romantic,
+  couture-quality wedding dresses with a fraction of the environmental impact.
 source_url: https://leannemarshall.com
 category: Luxury Fashion
 tags:
   - bridal
   - zero-waste
-  - recycled
+  - recycled-materials
+  - made-in-usa
+  - repurposed-fabrics
 featured: false
 markdown: >-
   ## Overview
@@ -60,4 +68,4 @@ markdown: >-
 
   Luxury pricing for zero-waste sustainable bridal gowns.
 brand: Leanne Marshall
-updated_at: 2026-02-26 10:38
+updated_at: 2026-04-05 00:21

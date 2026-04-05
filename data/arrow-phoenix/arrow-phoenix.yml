@@ -1,13 +1,19 @@
 name: Arrow + Phoenix
-description: 90s-influenced sustainable swimwear line from LA focusing on
-  diversity and size inclusivity. Bra cups A-H, made from ECONYL regenerated
-  nylon from Italian eco-luxe fiber.
+description: Arrow + Phoenix is a Los Angeles-based sustainable swimwear brand
+  crafting 90s-inspired pieces from ECONYL regenerated nylon recovered from
+  ghost fishing nets and ocean waste, with genuine size inclusivity offering bra
+  cups from A to H. By using Italian eco-luxe recycled fiber, the brand
+  demonstrates that sustainable swimwear can be both stylish and accessible to
+  every body type. Where mainstream swim brands offer limited sizing and virgin
+  nylon production, Arrow + Phoenix combines ocean-cleaning materials with the
+  most inclusive fit range in sustainable swim.
 source_url: https://www.arrowandphoenix.com
 category: Swimwear
 tags:
   - econyl
   - size-inclusive
-  - diverse
+  - ocean-waste
+  - made-in-la
 featured: false
 markdown: >-
   ## Overview
@@ -68,4 +74,4 @@ markdown: >-
   Combines 90s aesthetic with modern sustainability and size inclusivity,
   proving sustainable swimwear can be for everyone.
 brand: Arrow + Phoenix
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

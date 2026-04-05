@@ -1,13 +1,21 @@
 name: Mejuri
-description: Toronto-based fine jewelry brand offering ethically crafted
-  everyday pieces with traceable diamonds from mine to market. Uses recycled
-  gold and fair labor practices.
+description: Mejuri is a Toronto-based fine jewelry brand that brings
+  traceability to traditionally opaque supply chains, offering diamonds tracked
+  from mine to market and using recycled gold to reduce the devastating
+  environmental impact of new mining. The brand prioritizes fair labor practices
+  and safe working conditions throughout its manufacturing network. Where
+  conventional jewelry brands source from conflict-affected mining regions with
+  no transparency, Mejuri's traceable gemstones, recycled precious metals, and
+  direct supplier relationships prove that fine jewelry can be both beautiful
+  and ethically accountable.
 source_url: https://mejuri.com
 category: Jewelry
 tags:
   - recycled-gold
   - traceable-diamonds
   - fair-labor
+  - direct-to-consumer
+  - mine-to-market
 featured: true
 markdown: >-
   ## Overview
@@ -70,4 +78,4 @@ markdown: >-
   Accessible pricing ($100-$500) makes sustainable fine jewelry available to
   broader audience without compromising ethics or quality.
 brand: Mejuri
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

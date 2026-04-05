@@ -1,13 +1,22 @@
 name: Rave Review
-description: Swedish upcycling brand transforming textiles of all kinds from
-  clothes to bedding to home goods into fun, elevated designs, giving new life
-  to pre-existing materials.
+description: Rave Review is an award-winning Swedish brand transforming
+  discarded textiles — from surplus clothing to discarded bedding and home goods
+  — into bold, fashion-forward designs through creative upcycling. By sourcing
+  exclusively from pre-existing materials and rejecting virgin textile
+  production entirely, the brand demonstrates that high fashion can be entirely
+  waste-free. Where conventional fashion brands consume millions of tonnes of
+  new fabric annually with little regard for resource limits, Rave Review's
+  zero-new-textile model proves that designer-level creativity can flourish
+  entirely on reclaimed materials.
 source_url: https://raveview.com
 category: Contemporary Fashion
 tags:
   - upcycled
-  - swedish
-  - elevated
+  - zero-new-textiles
+  - swedish-brand
+  - waste-diversion
+  - award-winning
+  - zero-waste
 featured: false
 markdown: >-
   ## Overview
@@ -23,21 +32,21 @@ markdown: >-
 
   - Swedish upcycling brand
 
-  - Transforms various textiles
+  - Transforms various textile waste streams
 
-  - Uses clothes, bedding, home goods
+  - Uses discarded clothes, bedding, and home goods
 
-  - Fun, elevated designs
+  - Fun, elevated contemporary designs
 
   - Pre-existing materials only
 
-  - Creative reconstruction
+  - Creative reconstruction approach
 
-  - Unique pieces
+  - Unique, one-of-a-kind pieces
 
   - Zero new textile production
 
-  - Contemporary aesthetic
+  - Contemporary fashion aesthetic
 
 
   ## Sustainability Practices
@@ -61,4 +70,4 @@ markdown: >-
 
   Premium pricing for unique upcycled designer fashion.
 brand: Rave Review
-updated_at: 2026-02-26 10:38
+updated_at: 2026-04-05 00:21

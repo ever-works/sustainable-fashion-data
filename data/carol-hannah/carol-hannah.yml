@@ -1,13 +1,21 @@
 name: Carol Hannah
-description: Luxury bridal brand handmaking wedding gowns to order by a skilled
-  team of artisans in their NYC studio, creating custom, sustainable bridal
-  fashion with exceptional craftsmanship.
+description: Carol Hannah is a luxury bridal brand handcrafting custom wedding
+  gowns to order in its NYC studio, pairing exceptional artisan craftsmanship
+  with the inherent sustainability of made-to-order production. By eliminating
+  speculative inventory and manufacturing locally, every gown is a purposeful
+  creation that avoids the textile waste endemic to conventional bridal
+  manufacturing. Where mainstream bridal brands mass-produce gowns overseas with
+  opaque supply chains, Carol Hannah delivers personalized, sustainably crafted
+  luxury wedding fashion through skilled local artisanship.
 source_url: https://carolhannah.com
 category: Luxury Fashion
 tags:
-  - bridal
   - made-to-order
-  - nyc
+  - nyc-made
+  - zero-overproduction
+  - artisan-craftsmanship
+  - bridal
+  - local-manufacturing
 featured: false
 markdown: >-
   ## Overview
@@ -60,4 +68,4 @@ markdown: >-
 
   Luxury bridal pricing for handmade, made-to-order wedding gowns.
 brand: Carol Hannah
-updated_at: 2026-02-26 10:38
+updated_at: 2026-04-05 00:21

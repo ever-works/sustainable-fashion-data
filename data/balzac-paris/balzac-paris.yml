@@ -1,13 +1,19 @@
 name: Balzac Paris
-description: French sustainable fashion brand creating beautiful, quality
-  clothing for modern women using sustainable materials such as GOTS-certified
-  organic cotton and eco-friendly production practices.
+description: Balzac Paris is a French sustainable fashion brand creating
+  elegant, timeless clothing for modern women using GOTS-certified organic
+  cotton and eco-friendly production practices. Each garment combines
+  contemporary French design with responsible material sourcing, proving that
+  Parisian style doesn't require environmental compromise. Where conventional
+  fashion relies on pesticide-heavy conventional cotton and exploitative
+  manufacturing, Balzac Paris delivers refined, GOTS-verified pieces designed to
+  outlast seasonal trends.
 source_url: https://balzacparis.com
 category: Women's Fashion
 tags:
+  - gots-certified
   - organic-cotton
   - french-design
-  - GOTS-certified
+  - timeless
 featured: false
 markdown: >-
   ## Overview
@@ -48,4 +54,4 @@ markdown: >-
   designed to last, reducing the need for frequent replacement and combating
   fast fashion culture.
 brand: Balzac Paris
-updated_at: 2026-02-26 10:38
+updated_at: 2026-04-05 00:21

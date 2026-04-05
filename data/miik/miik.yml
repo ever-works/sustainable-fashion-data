@@ -1,13 +1,22 @@
 name: Miik
-description: Canadian sustainable clothing brand making women's fashion in
-  Canada with eco-friendly materials, offering versatile, comfortable pieces
-  with ethical local production.
+description: Miik is a Canadian sustainable clothing brand designing and
+  manufacturing women's fashion entirely in Toronto, using eco-friendly
+  materials like TENCEL, organic cotton, and recycled fibers in ethical local
+  production. By keeping design, sampling, and manufacturing within one city,
+  the brand maintains full oversight of working conditions while minimizing the
+  carbon footprint typically associated with global fashion supply chains. Where
+  mainstream brands fragment production across continents with zero
+  accountability, Miik's Toronto-based vertical approach delivers versatile,
+  comfortable womenswear with genuine traceability.
 source_url: https://www.miik.ca
 category: Women's Fashion
 tags:
   - made-in-canada
-  - sustainable
-  - versatile
+  - TENCEL
+  - local-manufacturing
+  - organic-cotton
+  - toronto-made
+  - supply-chain-transparency
 featured: false
 markdown: >-
   ## Overview
@@ -46,17 +55,5 @@ markdown: >-
   Miik maintains Canadian production using sustainable, eco-friendly materials.
   The brand creates versatile pieces designed for multiple occasions, promoting
   a minimalist wardrobe approach and reducing the need for excessive clothing.
-
-
-  ## Product Range
-
-
-  Offers versatile women's clothing made in Canada from sustainable materials.
-
-
-  ## Pricing
-
-
-  Mid-range pricing for Canadian-made sustainable fashion.
 brand: Miik
-updated_at: 2026-02-26 10:38
+updated_at: 2026-04-05 00:21

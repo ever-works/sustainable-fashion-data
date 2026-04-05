@@ -1,13 +1,21 @@
 name: Levi's SecondHand
-description: Levi's buy-back and resale program saving 80% CO2 emissions and
-  700g waste per pair. Goal to be 'circular ready' by 2026 with products made to
-  be made again.
+description: Levi's SecondHand is a buy-back and resale program from the iconic
+  denim brand that allows customers to trade in used Levi's for gift cards while
+  diverting garments from landfills. Each resold pair saves approximately 80% in
+  CO2 emissions and 700g of waste compared to new production, with the brand
+  targeting full circular readiness by 2026. Where mainstream denim brands treat
+  jeans as disposable items with no afterlife, Levi'SecondHand leverages the
+  legendary longevity of 501s to create a genuine circular lifecycle for one of
+  fashion's most wasteful product categories.
 source_url: https://www.levi.com/secondhand
 category: Denim
 tags:
   - circular-fashion
   - buy-back-program
   - resale
+  - co2-reduction
+  - waste-diversion
+  - major-brand
 featured: true
 markdown: >-
   ## Overview
@@ -70,4 +78,4 @@ markdown: >-
   Transforming from linear to circular business model, ensuring products can be
   remade repeatedly.
 brand: Levi's
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

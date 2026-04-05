@@ -1,13 +1,20 @@
 name: Achilles and the Tortoise
-description: "Amsterdam slow fashion brand creating circular streetwear with two
-  collections: Essentials from organic materials made in Portugal, and ALTER
-  from upcycled parachutes and military blankets made locally in Amsterdam."
+description: "Achilles and the Tortoise is an Amsterdam slow fashion brand
+  creating circular streetwear through two distinct lines: Essentials made from
+  GOTS certified organic cotton in Portugal, and ALTER crafted from upcycled
+  parachutes and military blankets in local Amsterdam workshops. By pairing
+  timeless organic basics with innovative surplus-material transformations, the
+  brand demonstrates multiple pathways to circular fashion. Where fast fashion
+  brands discard unsold inventory and rely on virgin materials, this brand keeps
+  textiles in use and eliminates waste through creative reuse."
 source_url: https://achillesxtortoise.com
 category: Casual Wear
 tags:
-  - circular-fashion
+  - gots-certified
+  - organic-cotton
   - upcycled
-  - slow-fashion
+  - circular-fashion
+  - made-in-europe
 featured: false
 markdown: >-
   ## Overview
@@ -70,4 +77,4 @@ markdown: >-
 
   Mid-range pricing for sustainable streetwear made in Europe.
 brand: Achilles and the Tortoise
-updated_at: 2026-02-26 12:09
+updated_at: 2026-04-05 00:21

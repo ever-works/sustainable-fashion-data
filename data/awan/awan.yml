@@ -1,13 +1,19 @@
 name: AWAN
-description: Sustainable clothing brand from Oslo creating comfort-first fashion
-  with eco-friendly materials and ethical production, offering contemporary
-  Norwegian design with environmental responsibility.
+description: AWAN is a sustainable Oslo-based clothing brand creating
+  comfort-first fashion from eco-friendly materials in ethically audited
+  factories across Europe. The brand's Scandinavian minimalist design philosophy
+  prioritizes timeless, versatile pieces over seasonal trends, reducing the
+  consumption cycle. Where mainstream contemporary fashion relies on
+  resource-intensive production and disposable styling, AWAN's comfort-driven,
+  ethically-made approach delivers Norwegian design sensibility with genuine
+  environmental accountability.
 source_url: https://awan.no
 category: Contemporary Fashion
 tags:
-  - norwegian
-  - comfort-first
-  - oslo
+  - norwegian-designed
+  - eco-friendly
+  - ethical-production
+  - scandinavian-minimalist
 featured: false
 markdown: >-
   ## Overview
@@ -59,4 +65,4 @@ markdown: >-
 
   Mid-range pricing for Norwegian sustainable comfort fashion.
 brand: AWAN
-updated_at: 2026-02-26 10:38
+updated_at: 2026-04-05 00:21

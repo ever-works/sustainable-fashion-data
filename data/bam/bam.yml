@@ -1,13 +1,19 @@
 name: BAM
-description: UK sustainable activewear brand creating ethically-made clothing
-  from bamboo. Offers eco-friendly activewear, basics, and recently expanded to
-  low-impact jeans.
+description: BAM is a UK-based sustainable activewear and basics brand creating
+  ethically-made clothing from bamboo, organic cotton, and recycled polyester
+  with carbon-neutral shipping. Bamboo's rapid regrowth requires no pesticides
+  or irrigation while producing naturally breathable, antibacterial fabric that
+  outperforms conventional synthetic activewear materials. Where mainstream
+  activewear relies on petroleum-derived polyester that sheds microplastics with
+  every wash, BAM's bamboo-blend garments deliver superior comfort with a
+  dramatically lighter environmental footprint.
 source_url: https://bambooclothing.co.uk
 category: Activewear
 tags:
   - bamboo
+  - organic-cotton
+  - carbon-neutral
   - ethical
-  - activewear
 featured: false
 markdown: >-
   ## Overview
@@ -140,4 +146,4 @@ markdown: >-
   Affordable to mid-range, typically £20-£80 per item, making sustainable
   activewear accessible.
 brand: BAM
-updated_at: 2026-02-26 12:17
+updated_at: 2026-04-05 00:21

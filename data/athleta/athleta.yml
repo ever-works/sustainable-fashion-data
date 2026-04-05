@@ -1,13 +1,20 @@
 name: Athleta
-description: Activewear sustainability leader with 60% sustainable fibers in
-  assortment. Uses recycled polyester and nylon, diverts landfill waste, and
-  prioritizes inclusivity with durable performance fabrics.
+description: Athleta is an activewear brand with 60% of its assortment made from
+  sustainable fibers including recycled polyester and nylon, while prioritizing
+  inclusive sizing and durable performance fabrics that outlast fast fashion
+  alternatives. As a subsidiary of Gap Inc., the brand demonstrates that
+  mainstream activewear can meaningfully reduce its environmental footprint
+  through recycled materials adoption. Where conventional sportswear relies on
+  virgin synthetics that shed microplastics into waterways, Athleta's recycled
+  fiber program and emphasis on durability offer a more responsible path to
+  performance apparel.
 source_url: https://www.athleta.com
 category: Activewear
 tags:
   - recycled-materials
   - inclusive-sizing
   - performance
+  - durable
 featured: true
 markdown: >-
   ## Overview
@@ -70,4 +77,4 @@ markdown: >-
   Recommended for those prioritizing sustainability alongside performance and
   inclusive sizing.
 brand: Athleta
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

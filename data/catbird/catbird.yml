@@ -1,13 +1,23 @@
 name: Catbird
-description: Brooklyn-based ethical jewelry brand handmade in NYC studio from
-  recycled gold and conflict-free stones. Catbird Giving Fund donates 1% of
-  sales to organizations like ACLU and Food Bank of NYC.
+description: Catbird is a Brooklyn-based ethical jewelry brand crafting
+  delicate, handmade pieces from recycled gold and conflict-free stones in their
+  NYC studio, while directing 1% of all sales through the Catbird Giving Fund to
+  progressive organizations like the ACLU and Food Bank of NYC. By sourcing
+  recycled precious metals and ensuring every stone is conflict-free, the brand
+  eliminates the environmental devastation and human rights abuses endemic to
+  conventional jewelry mining. Where mainstream jewelry brands source from
+  opaque, often exploitative mining supply chains, Catbird's NYC-made
+  craftsmanship and verified ethical materials prove that fine jewelry can be
+  both beautiful and socially responsible.
 source_url: https://www.catbirdnyc.com
 category: Jewelry
 tags:
   - recycled-gold
   - conflict-free
-  - handmade
+  - handmade-nyc
+  - charitable-giving
+  - local-artisans
+  - fair-wages
 featured: true
 markdown: >-
   ## Overview
@@ -70,4 +80,4 @@ markdown: >-
   All pieces handcrafted by skilled artisans in Brooklyn studio, ensuring
   quality, fair wages, and supporting local economy.
 brand: Catbird
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

@@ -1,13 +1,20 @@
 name: AMYO Jewelry
-description: NYC-based women-made minimalist jewelry brand creating handmade
-  pieces from 14K gold, sterling silver, and gold vermeil, sourcing materials
-  from US businesses with guaranteed fair wages and recycled metal scraps.
+description: AMYO Jewelry is an NYC-based, women-made jewelry brand handcrafting
+  minimalist pieces from 14K gold, sterling silver, and gold vermeil with all
+  metal scraps recycled and all makers guaranteed fair wages. Sourcing materials
+  from US-based businesses and producing every piece in a New York City studio,
+  the brand eliminates the opaque, exploitative supply chains that plague
+  mainstream jewelry manufacturing. Where conventional jewelry brands source
+  mined metals from conflicted regions and outsource to underpaid labor, AMYO
+  delivers accessible luxury jewelry with full domestic transparency.
 source_url: https://amyojewelry.com
 category: Jewelry
 tags:
   - handmade
   - recycled-metals
   - made-in-usa
+  - fair-wages
+  - women-owned
 featured: false
 markdown: >-
   ## Overview
@@ -61,4 +68,4 @@ markdown: >-
 
   Accessible to mid-range pricing for handmade fine jewelry made in the USA.
 brand: AMYO Jewelry
-updated_at: 2026-02-26 12:09
+updated_at: 2026-04-05 00:21

@@ -1,13 +1,21 @@
 name: Blanche
-description: Danish fashion brand designing clothing as an ode to the modern
-  female, using organic and recycled materials with Scandinavian minimalism and
-  contemporary aesthetics.
+description: Blanche is a Copenhagen-based fashion brand designing refined,
+  Scandinavian-minimalist clothing using GOTS-certified organic and recycled
+  materials in European-manufactured collections that honor both craftsmanship
+  and environmental responsibility. By prioritizing certified organic fibers and
+  recycled content while keeping production close to design, the brand
+  significantly reduces transportation emissions and supply chain opacity. Where
+  fast fashion brands produce trend-chasing garments in distant factories with
+  unverified materials, Blanche's transparent, European-made approach delivers
+  timeless, responsibly-sourced wardrobes built to last beyond seasonal trends.
 source_url: https://blanche-cph.com
 category: Contemporary Fashion
 tags:
-  - organic
-  - recycled
-  - danish
+  - gots-certified
+  - organic-materials
+  - recycled-fabrics
+  - scandinavian-design
+  - european-made
 featured: false
 markdown: >-
   ## Overview
@@ -60,4 +68,4 @@ markdown: >-
 
   Premium pricing for Scandinavian sustainable contemporary fashion.
 brand: Blanche
-updated_at: 2026-02-26 10:38
+updated_at: 2026-04-05 00:21

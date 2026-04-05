@@ -1,14 +1,19 @@
 name: BEEN London
-description: London-based sustainable accessories brand crafting timeless pieces
-  from recycled materials including discarded clothing, single-use plastics,
-  leather off-cuts, and apple skins. Innovative upcycling for stylish
-  accessories.
+description: BEEN London is a sustainable accessories brand transforming
+  discarded clothing, leather off-cuts, apple skin waste, and single-use
+  plastics into timeless bags and accessories crafted in ethical European
+  factories. By diverting textile and leather industry waste from landfills,
+  each piece reduces demand for virgin materials while offering contemporary,
+  functional design. Where mainstream accessories brands rely on newly tanned
+  leather and virgin synthetics, BEEN London's waste-to-fashion model proves
+  that street-level style can emerge from the materials others discard.
 source_url: https://beenlondon.com
 category: Accessories
 tags:
   - recycled
   - upcycled
-  - innovative-materials
+  - apple-leather
+  - zero-waste
 featured: false
 markdown: >-
   ## Overview
@@ -47,8 +52,6 @@ markdown: >-
 
   - Single-use plastic waste
 
-  - Ocean plastics
-
   - Post-consumer plastic
 
 
@@ -74,8 +77,6 @@ markdown: >-
 
   - Phone cases
 
-  - Keychains
-
   - Travel accessories
 
 
@@ -92,51 +93,6 @@ markdown: >-
 
   - Lower carbon footprint
 
-  - Ethical production
-
-  - B Corp certified
-
-
-  ## Design
-
-
-  - Contemporary, minimalist style
-
-  - Timeless aesthetic
-
-  - Functional designs
-
-  - Versatile pieces
-
-  - Modern classics
-
-  - Gender-neutral options
-
-
-  ## Impact
-
-
-  By using waste materials, BEEN London diverts thousands of kilograms of waste
-  from landfills annually while creating stylish, durable accessories.
-
-
-  ## Values
-
-
-  - Circular fashion
-
-  - Waste reduction
-
-  - Innovation in materials
-
-  - Transparency
-
-  - Quality craftsmanship
-
-
-  ## Pricing
-
-
-  Mid-range sustainable accessories, typically £30-£150 depending on item.
+  - Ethical production in Europe
 brand: BEEN London
-updated_at: 2026-02-26 12:17
+updated_at: 2026-04-05 00:21

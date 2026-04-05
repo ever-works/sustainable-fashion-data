@@ -1,12 +1,18 @@
 name: ABLE
-description: Certified B Corp ethical fashion brand employing and empowering
-  women to end poverty. Publishes worker wages online for transparency and
-  provides fair wages and training to women in developing countries.
+description: ABLE is a Certified B Corp ethical fashion brand dedicated to
+  ending generational poverty by employing and empowering women, publishing
+  every worker's wage online for unprecedented pay transparency. The brand
+  offers a lifetime guarantee on products and a size-swap collection for body
+  changes, ensuring clothes stay in use for years. While fast fashion brands
+  obscure supply chain conditions and treat garments as disposable, ABLE's
+  radical transparency and repair-first philosophy prove that ethical
+  manufacturing and durable design can thrive at scale.
 source_url: https://livefashionable.com
 category: Women's Fashion
 tags:
   - b-corp
   - fair-trade
+  - wage-transparency
   - women-empowerment
 featured: true
 markdown: >-
@@ -60,4 +66,5 @@ markdown: >-
   ABLE is a leader in wage transparency, publicly sharing what workers are paid
   to ensure accountability and fair compensation.
 brand: ABLE
-updated_at: 2026-02-26 08:57
+brand_logo_url: https://livefashionable.com/cdn/shop/files/ABLE_Logo.png
+updated_at: 2026-04-05 00:21

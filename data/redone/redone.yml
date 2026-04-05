@@ -1,13 +1,21 @@
 name: Re/Done
-description: Vintage Levi's reconstruction brand paying royalties for secondhand
-  garments. Transforms vintage denim into modern fits with contemporary styling,
-  retailing $230-$270.
+description: Re/Done is a pioneering vintage denim reconstruction brand that
+  deconstructs secondhand Levi's jeans and rebuilds them into modern fits with
+  contemporary styling, paying royalties to Levi's for each vintage garment
+  used. By transforming discarded jeans into coveted designer pieces, the brand
+  eliminates the 1,800 gallons of water and massive chemical inputs required to
+  produce a single new pair of jeans. Where traditional denim brands drive
+  demand for resource-intensive new production, Re/Done's upcycling model proves
+  that vintage reconstruction can deliver premium fashion while diverting
+  perfectly good denim from landfill.
 source_url: https://shopredone.com
 category: Denim
 tags:
-  - upcycled
-  - vintage
+  - upcycled-denim
+  - vintage-reconstruction
   - circular-fashion
+  - water-savings
+  - zero-new-production
 featured: true
 markdown: >-
   ## Overview
@@ -40,7 +48,7 @@ markdown: >-
 
   - Contemporary styling
 
-  - Retail price $230-$270
+  - Retail price $230–$270
 
   - Each piece is unique
 
@@ -70,4 +78,4 @@ markdown: >-
   Pioneered the vintage reconstruction market, proving upcycled fashion can be
   both sustainable and desirable.
 brand: Re/Done
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

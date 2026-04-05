@@ -1,64 +1,59 @@
 name: Bhumi
-description: Australian sustainable brand using 100% Fairtrade, organic, and
-  vegan materials for comfortable basics and bedding, creating eco-friendly
-  essentials with ethical production practices.
+description: Bhumi is an Australian Certified B Corp producing 100% Fairtrade
+  certified, organic, and vegan clothing basics and home textiles, with a
+  commitment to GOTS-certified fabrics and plastic-free, home-compostable
+  packaging. Every piece is made without animal products, toxic chemicals, or
+  exploitative labor — verified through independent Fairtrade certification.
+  Where most brands greenwash with vague sustainability claims, Bhumi's triple
+  commitment to Fairtrade, organic, and vegan standards provides the most
+  comprehensive ethical baseline in everyday essentials.
 source_url: https://bhumiorganics.com.au
 category: Basics & Essentials
 tags:
-  - fairtrade
-  - organic
+  - b-corp
+  - fairtrade-certified
+  - gots-certified
   - vegan
-featured: false
+  - plastic-free
+featured: true
 markdown: >-
   ## Overview
 
 
-  Bhumi is an Australian brand that uses 100% Fairtrade, organic, and vegan
-  materials for its basics and bedding. The brand creates comfortable,
-  eco-friendly essentials with ethical production practices.
+  Bhumi is an Australian brand and Certified B Corp that uses 100% Fairtrade,
+  organic, and vegan materials for its basics, clothing, and bedding.
 
 
-  ## Features
+  ## Certifications
 
 
-  - 100% Fairtrade materials
+  - Certified B Corporation
 
-  - 100% organic fabrics
+  - Fairtrade certified
 
-  - 100% vegan products
+  - GOTS certified organic materials
 
-  - Australian brand
-
-  - Comfortable basics
-
-  - Sustainable bedding
-
-  - Ethical production
-
-  - Eco-friendly essentials
-
-  - Chemical-free materials
+  - Vegan products
 
 
-  ## Sustainability Practices
+  ## Sustainability Features
 
 
-  Bhumi maintains strict standards by using exclusively Fairtrade, organic, and
-  vegan materials. This comprehensive approach ensures environmental
-  responsibility, animal welfare, and fair treatment of workers throughout the
-  supply chain.
+  - 100% Fairtrade, organic, and vegan materials
+
+  - Plastic-free and home-compostable packaging
+
+  - Chemical-free production
+
+  - Ethical supply chain
+
+  - Animal-free products
 
 
   ## Product Range
 
 
-  Offers organic basics, clothing essentials, and bedding made from Fairtrade
-  organic materials.
-
-
-  ## Pricing
-
-
-  Mid-range pricing for Australian Fairtrade organic products.
+  Organic basics, clothing essentials, and bedding made from Fairtrade organic
+  cotton and other sustainable materials.
 brand: Bhumi
-updated_at: 2026-02-26 10:38
+updated_at: 2026-04-05 00:21

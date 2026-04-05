@@ -1,13 +1,20 @@
 name: Agazi
-description: Polish vegan footwear brand creating handcrafted shoes from
-  innovative plant-based leathers including apple, grape, cactus, and hemp, with
-  sustainable bamboo and cork materials.
+description: Agazi is a Polish vegan footwear brand handcrafting shoes from
+  innovative plant-based leathers including apple, grape, cactus, and hemp
+  leather alongside sustainably sourced bamboo linings and natural cork soles.
+  Founded by a former lawyer seeking to revolutionize the shoe industry, the
+  brand designs and produces under one roof in its own atelier, ensuring full
+  control over ethical and environmental standards. Where conventional footwear
+  relies on animal leather tanning or petroleum-based synthetics, Agazi
+  transforms agricultural waste streams and natural fibers into chic,
+  contemporary shoes rated 'Great' by Good On You.
 source_url: https://agazi.eu
 category: Footwear
 tags:
   - vegan
-  - plant-leather
+  - plant-based-leather
   - handcrafted
+  - oeko-tex-certified
 featured: false
 markdown: >-
   ## Agazi Vegan Shoes
@@ -63,4 +70,5 @@ markdown: >-
 
   Mid-range pricing for handcrafted vegan footwear.
 brand: Agazi
-updated_at: 2026-02-26 12:09
+brand_logo_url: https://agazi.eu/cdn/shop/files/AGAZI_Logo.png
+updated_at: 2026-04-05 00:21

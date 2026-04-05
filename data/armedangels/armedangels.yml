@@ -1,13 +1,20 @@
 name: Armedangels
-description: German sustainable fashion brand founded in 2007 using only
-  certified sustainable materials like organic cotton, linen, wool and recycled
-  polyester. GOTS certified and PETA-approved vegan.
+description: Armedangels is a German sustainable fashion brand and
+  GOTS-certified pioneer founded in 2007 in Cologne, using exclusively certified
+  organic cotton, linen, wool, and recycled polyester across all collections.
+  The brand's PETA-approved vegan status ensures zero animal-derived materials,
+  while its rapid scaling and doubling of recycled material usage from 6% to 12%
+  in 2023 demonstrates meaningful industry progress. Where fast fashion relies
+  on pesticide-laden cotton and exploitative labor, Armedangels proves that
+  certified organic, ethically made fashion can achieve mainstream scale and
+  desirability.
 source_url: https://www.armedangels.com
 category: Contemporary Fashion
 tags:
   - gots-certified
-  - vegan
+  - peta-approved-vegan
   - organic-cotton
+  - recycled-polyester
 featured: true
 markdown: >-
   ## Overview
@@ -60,4 +67,5 @@ markdown: >-
   Creates quality products using sustainable and ethical materials, proving that
   fashion can be both stylish and responsible.
 brand: Armedangels
-updated_at: 2026-02-26 08:57
+brand_logo_url: https://www.armedangels.com/wp-content/themes/armedangels/img/logo.svg
+updated_at: 2026-04-05 00:21

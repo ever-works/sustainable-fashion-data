@@ -1,13 +1,19 @@
 name: 9-jour
-description: Japanese denim brand specializing in colorful selvedge jeans dyed
-  naturally with low-impact solutions, offering sustainable denim in every hue
-  beyond traditional indigo.
+description: 9-jour is a Japanese denim brand specializing in selvedge jeans
+  dyed with natural, low-impact solutions, offering a vibrant spectrum of colors
+  far beyond traditional indigo. By eliminating toxic synthetic dyes and
+  prioritizing heritage selvedge weaving techniques, the brand delivers
+  colorful, long-lasting denim without polluting waterways. Where mainstream
+  denim relies on chemical-heavy dyeing processes that contaminate millions of
+  liters of water annually, 9-jour proves that beautiful, expressive color can
+  be achieved sustainably.
 source_url: https://9-jour.com
 category: Denim
 tags:
-  - japanese
   - natural-dye
   - selvedge
+  - japanese-craftsmanship
+  - low-impact-dyes
 featured: false
 markdown: >-
   ## Overview
@@ -61,4 +67,4 @@ markdown: >-
 
   Premium pricing for Japanese selvedge naturally-dyed denim.
 brand: 9-jour
-updated_at: 2026-02-26 10:38
+updated_at: 2026-04-05 00:21

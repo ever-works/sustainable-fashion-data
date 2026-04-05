@@ -1,13 +1,23 @@
 name: Tenth & Pine
-description: American baby clothing brand using GOTS-certified organic cotton
-  and OEKO-TEX certified bamboo viscose. Made responsibly in USA with
-  eco-friendly water-based inks and ethical practices.
+description: Tenth & Pine is a US-based baby and children's clothing brand
+  crafting soft, durable essentials from GOTS-certified organic cotton and
+  OEKO-TEX certified bamboo viscose, printed with eco-friendly water-based inks
+  and responsibly sewn in American factories. By eliminating synthetic dyes,
+  toxic finishes, and overseas labor exploitation, the brand delivers gentle,
+  chemical-safe clothing for babies' sensitive skin without the hidden costs of
+  conventional children's fashion. Where mainstream baby brands flood the market
+  with imported polyester blends treated with flame retardants and formaldehyde
+  finishes, Tenth & Pine's certified organic supply chain and made-in-USA
+  production ensure complete safety from farm to nursery.
 source_url: https://tenthandpine.com
 category: Children's Clothing
 tags:
+  - organic-cotton
   - gots-certified
-  - made-in-usa
+  - oeko-tex-certified
   - water-based-inks
+  - made-in-usa
+  - non-toxic
 featured: false
 markdown: >-
   ## Overview
@@ -63,4 +73,4 @@ markdown: >-
   Produced in the USA with ethical labor practices and environmental
   responsibility.
 brand: Tenth & Pine
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

@@ -1,13 +1,22 @@
 name: Boody
-description: Australian bamboo clothing brand using OCIA certified organic
-  bamboo with closed-loop production. ECOCERT, Oeko-Tex, and PETA certified with
-  non-toxic solvents and water recycling.
+description: Boody is an Australian bamboo basics brand producing everyday
+  essentials and underwear from OCIA-certified organic bamboo through a
+  closed-loop production system that recycles non-toxic solvents and water. With
+  certifications spanning ECOCERT, OEKO-TEX, and PETA, the brand ensures its
+  bamboo fabric is free from harmful chemicals while remaining hypoallergenic
+  and naturally breathable. Where conventional underwear brands load garments
+  with synthetic microfibers and undisclosed chemical treatments, Boody's
+  certified closed-loop bamboo production delivers comfortable, skin-safe
+  essentials with minimal environmental footprint.
 source_url: https://boody.com
 category: Basics & Essentials
 tags:
-  - bamboo
+  - organic-bamboo
   - closed-loop
-  - organic
+  - oeko-tex-certified
+  - petasapproved
+  - non-toxic
+  - water-recycling
 featured: true
 markdown: >-
   ## Overview
@@ -70,4 +79,4 @@ markdown: >-
   Closed-loop production and water recycling minimize environmental impact while
   creating hypoallergenic, breathable clothing.
 brand: Boody
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

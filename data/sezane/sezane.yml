@@ -1,13 +1,22 @@
 name: Sézane
-description: French fashion brand achieving B Corp certification in 2021. Uses
-  80-85% lower-impact materials including GOTS organic cotton and RWS wool with
-  annual factory audits.
+description: Sézane is a Parisian fashion brand that became one of the first
+  French labels to achieve B Corp certification, demonstrating verified social
+  and environmental governance across its operations. The brand sources 80-85%
+  of its materials from lower-impact options including GOTS-certified organic
+  cotton and RWS-certified wool, with annual audits of every factory in its
+  supply chain. Where mainstream fashion labels make vague sustainability claims
+  without third-party verification, Sézane's B Corp certification, rigorous
+  material standards, and transparent factory auditing deliver independently
+  validated proof of ethical and environmental responsibility.
 source_url: https://www.sezane.com
 category: Women's Fashion
 tags:
   - b-corp
-  - french-fashion
   - gots-certified
+  - fashion
+  - organic-cotton
+  - responsible-wool
+  - factory-audits
 featured: true
 markdown: >-
   ## Overview
@@ -73,4 +82,4 @@ markdown: >-
   Ready-to-wear, leather goods, accessories, jewelry, and fragrance with
   sustainable Parisian style.
 brand: Sézane
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

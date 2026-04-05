@@ -1,13 +1,20 @@
 name: Araks
-description: New York-based lingerie and swimwear brand founded in 2000 using
-  ECONYL recycled ocean plastics and organic cotton. OEKO-TEX certified with
-  renewable energy production and zero-water waste.
+description: Araks is a New York-based lingerie and swimwear brand founded in
+  2000 by Araks Yeramyan, crafting pieces from ECONYL regenerated nylon (made
+  from ocean plastics and discarded fishing nets), organic cotton, and OEKO-TEX
+  100 certified fabrics. Manufacturing takes place in female-led factories in
+  New York using renewable energy with zero-water waste processes. Where
+  conventional lingerie and swimwear rely on virgin nylon and toxic dyeing
+  processes, Araks produces OEKO-TEX certified garments in renewable-powered
+  facilities with safe chemical management and captured methane emissions.
 source_url: https://www.araks.com
 category: Swimwear
 tags:
   - econyl
+  - oeko-tex-certified
   - organic-cotton
-  - zero-waste
+  - zero-water-waste
+  - renewable-energy
 featured: false
 markdown: >-
   ## Overview
@@ -74,4 +81,4 @@ markdown: >-
   Has 70% organic cotton and 30% upcycled cotton collection combining
   sustainability with luxury aesthetics.
 brand: Araks
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

@@ -1,13 +1,22 @@
 name: Solmate Socks
-description: American sustainable sock brand manufacturing all products at their
-  own mill in Hickory, North Carolina, using recycled cotton yarns from
-  production scraps and used clothing in collaboration with RecoverTex.
+description: Solmate Socks is an American sock manufacturer producing all
+  products at their own mill in Hickory, North Carolina, using recycled cotton
+  yarns developed in collaboration with RecoverTex from production scraps and
+  post-consumer clothing. By operating their own domestic mill and diverting
+  textile waste from landfills, the brand keeps manufacturing local while
+  transforming discarded fibers into colorful, mismatched socks that celebrate
+  imperfection. Where mainstream sock brands manufacture cheap synthetic blends
+  in overseas factories with massive textile waste, Solmate Socks proves that
+  recycled cotton and American mill production can deliver playful, durable
+  footwear accessories with minimal environmental impact.
 source_url: https://solmatesocks.com
 category: Accessories
 tags:
   - recycled-cotton
   - made-in-usa
-  - upcycled
+  - textile-waste-diversion
+  - own-mill
+  - american-made
 featured: false
 markdown: >-
   ## Overview
@@ -61,4 +70,4 @@ markdown: >-
 
   Mid-range pricing for American-made recycled cotton socks.
 brand: Solmate Socks
-updated_at: 2026-02-26 10:38
+updated_at: 2026-04-05 00:21

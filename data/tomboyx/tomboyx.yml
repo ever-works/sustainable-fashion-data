@@ -1,13 +1,23 @@
 name: TomboyX
-description: Gender-inclusive B Corporation founded in 2013 selling sustainably
-  made underwear for all sizes and gender expressions. Uses TENCEL Modal and
-  OEKO-TEX certified cotton.
+description: TomboyX is a gender-inclusive Certified B Corporation creating
+  sustainably made underwear, loungewear, and swimwear for all body types across
+  an exceptionally wide size range that serves bodies mainstream brands
+  systematically exclude. Using TENCEL Modal from renewable beechwood pulp and
+  OEKO-TEX certified cotton, the brand delivers comfortable intimates and
+  sleepwear that actively welcome every gender expression. Where traditional
+  underwear brands design almost exclusively for cisgender women with narrow
+  sizing and toxic finishes, TomboyX's body-positive, sustainably crafted
+  approach proves that truly inclusive fashion and genuine environmental
+  responsibility go hand in hand.
 source_url: https://tomboyx.com
 category: Underwear & Intimates
 tags:
   - b-corp
   - gender-inclusive
   - size-inclusive
+  - TENCEL-Modal
+  - oeko-tex-certified
+  - body-positive
 featured: true
 markdown: >-
   ## Overview
@@ -36,7 +46,7 @@ markdown: >-
 
   - Certified B Corporation
 
-  - OEKO-TEX® certified cotton
+  - OEKO-TEX certified cotton
 
   - BCI-certified cotton suppliers
 
@@ -48,11 +58,11 @@ markdown: >-
   ## Materials
 
 
-  - TENCEL™ Modal from renewable beechwood pulp
+  - TENCEL Modal from renewable beechwood pulp
 
   - Closed-loop production system
 
-  - OEKO-TEX® certified cotton
+  - OEKO-TEX certified cotton
 
   - BCI-certified cotton
 
@@ -72,4 +82,4 @@ markdown: >-
   Creates comfortable, sustainable clothing that anybody can feel confident
   wearing, regardless of gender expression or body type.
 brand: TomboyX
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

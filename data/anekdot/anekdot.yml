@@ -1,13 +1,20 @@
 name: Anekdot
-description: Berlin-based lingerie handmade from upcycled fabrics, deadstock,
-  and ECONYL® recycled fishing nets, founded by Swedish designer and produced in
-  Berlin atelier and women-owned Polish factory.
+description: Anekdot is a Berlin-based lingerie brand handcrafting romantic,
+  feminine pieces from upcycled fabrics, deadstock surplus, and ECONYL
+  regenerated from recycled fishing nets in the brand's own atelier and a
+  women-owned Polish factory. Every garment diverts materials destined for
+  landfills while supporting European craftsmanship and women-led production.
+  Where mainstream lingerie relies on virgin synthetics and opaque global
+  manufacturing, Anekdot's upcycled, small-batch approach delivers unique,
+  body-positive designs with zero virgin polyester dependency.
 source_url: https://anekdotboutique.com/en
 category: Underwear & Intimates
 tags:
   - upcycled
-  - handmade
+  - deadstock
   - econyl
+  - handmade
+  - women-owned
 featured: false
 markdown: >-
   ## Overview
@@ -62,4 +69,4 @@ markdown: >-
 
   Mid-range to premium pricing for handmade, upcycled lingerie.
 brand: Anekdot
-updated_at: 2026-02-26 12:09
+updated_at: 2026-04-05 00:21

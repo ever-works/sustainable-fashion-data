@@ -1,13 +1,21 @@
 name: Proclaim
-description: Inclusive lingerie line founded by Shobha Philips expanding
-  definition of 'nude' for brown skin tones. Size-inclusive sustainable
-  intimates representing diversity.
+description: Proclaim is an inclusive lingerie brand founded by Shobha Philips
+  that redefines 'nude' by creating sustainable intimates specifically designed
+  for brown and deeper skin tones, addressing a glaring gap left by mainstream
+  lingerie brands. The brand combines this mission of representation with
+  sustainable material sourcing and size-inclusive ranges that celebrate body
+  diversity. Where traditional lingerie brands treat 'nude' as exclusively light
+  beige and overlook women of color entirely, Proclaim delivers both ethical,
+  sustainably crafted intimate apparel and genuine representation that honors
+  every skin tone.
 source_url: https://wearproclaim.com
 category: Underwear & Intimates
 tags:
-  - inclusive
-  - diverse-nude-tones
+  - skin-tone-inclusive
+  - sustainable-materials
+  - diverse-representation
   - size-inclusive
+  - ethical-production
 featured: true
 markdown: >-
   ## Overview
@@ -63,4 +71,4 @@ markdown: >-
   Addressing systemic exclusion in lingerie industry by creating truly inclusive
   nude options for women of color.
 brand: Proclaim
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

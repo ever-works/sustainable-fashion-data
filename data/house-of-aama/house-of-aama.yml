@@ -1,13 +1,23 @@
 name: House of AAMA
-description: Black-owned slow fashion brand founded by mother-daughter duo
-  inspired by African cultures. Bespoke collections available by pre-order to
-  reduce textile waste.
+description: House of AAMA is a Black-owned slow fashion brand founded by
+  mother-daughter duo Rebecca Henry and Akua Shabaka, creating culturally rich
+  collections inspired by African heritage that are exclusively produced through
+  a zero-waste pre-order model. By making every collection available only by
+  pre-order, the brand completely eliminates overproduction — the fashion
+  industry's most destructive waste problem — while honoring ancestral design
+  traditions through contemporary craftsmanship. Where mainstream fashion brands
+  generate billions in unsold inventory each season, House of AAMA's bespoke,
+  made-to-order approach delivers culturally significant fashion with zero
+  textile waste and deep community connection.
 source_url: https://www.houseofaama.com
 category: Women's Fashion
 tags:
   - black-owned
-  - bespoke
-  - african-inspired
+  - made-to-order
+  - african-heritage
+  - zero-waste
+  - pre-order-model
+  - cultural-storytelling
 featured: true
 markdown: >-
   ## Overview
@@ -70,4 +80,4 @@ markdown: >-
   Combines African cultural inspiration with sustainable pre-order model,
   ensuring every piece is intentionally made and valued.
 brand: House of AAMA
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21

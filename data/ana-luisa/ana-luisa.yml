@@ -1,13 +1,20 @@
 name: Ana Luisa
-description: Sustainable and ethical jewelry brand offering contemporary designs
-  with transparent practices. Creates quality jewelry using recycled materials
-  and ethical manufacturing processes.
+description: Ana Luisa is an accessible contemporary jewelry brand crafting
+  pieces from recycled brass, silver, and gold vermeil with 100% carbon-neutral
+  shipping and eco-friendly, recyclable packaging. The brand operates on a
+  direct-to-consumer model that eliminates retail markups while maintaining
+  transparent, ethical factory partnerships and conflict-free stone sourcing.
+  Where traditional jewelry brands rely on newly mined metals with devastating
+  ecological costs and opaque supply chains, Ana Luisa proves that recycled
+  metal jewelry can deliver on-trend design with verified environmental
+  accountability at accessible prices.
 source_url: https://www.analuisa.com
 category: Jewelry
 tags:
-  - recycled
-  - ethical
-  - contemporary
+  - recycled-metals
+  - carbon-neutral
+  - conflict-free
+  - ethical-manufacturing
 featured: false
 markdown: >-
   ## Overview
@@ -150,4 +157,5 @@ markdown: >-
   Affordable contemporary jewelry, typically $30-$150, making sustainable
   jewelry accessible to more consumers.
 brand: Ana Luisa
-updated_at: 2026-02-26 12:17
+brand_logo_url: https://www.analuisa.com/cdn/shop/files/AnaLuisa_Logo.png
+updated_at: 2026-04-05 00:21

@@ -1,12 +1,19 @@
 name: Aspiga
-description: Award-winning B Corp certified ethical and sustainable clothing
-  company creating stylish collections for women and men using natural materials
-  with transparent, responsible practices.
+description: Aspiga is an award-winning B Corp certified fashion brand creating
+  stylish collections for women and men using natural materials with
+  transparent, responsible manufacturing practices. The brand's commitment to
+  ethical production and environmental stewardship is verified through rigorous
+  B Corp certification standards, ensuring both social impact and ecological
+  responsibility across its supply chain. Where fast fashion brands prioritize
+  cheap synthetic materials and opaque supply chains, Aspiga demonstrates that
+  contemporary style can be achieved through natural fabrics and verified
+  ethical manufacturing.
 source_url: https://www.aspiga.com
 category: Contemporary Fashion
 tags:
   - b-corp
   - natural-materials
+  - ethical-fashion
   - british
 featured: false
 markdown: >-
@@ -62,4 +69,4 @@ markdown: >-
 
   Mid-range pricing for B Corp certified sustainable fashion.
 brand: Aspiga
-updated_at: 2026-02-26 10:38
+updated_at: 2026-04-05 00:21

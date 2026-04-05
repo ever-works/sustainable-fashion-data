@@ -1,14 +1,20 @@
 name: Baukjen
-description: First British clothing brand to achieve B Corporation
-  certification, offering women's fashion with highest environmental and ethical
-  standards, plus clothing rental platform and preloved marketplace for circular
-  fashion.
+description: Baukjen was the first British clothing brand to achieve Certified B
+  Corporation status, offering women's fashion that meets rigorous environmental
+  and ethical standards alongside a full circular fashion ecosystem including
+  rental and preloved resale. The brand's commitment to extending garment
+  lifecycles through rental services and secondhand marketplace dramatically
+  reduces the need for new production. Where mainstream fashion brands treat
+  every sale as the end of a garment's journey, Baukjen's rental platform and
+  resale archive prove that a single piece of clothing can serve dozens of
+  customers before it needs replacing.
 source_url: https://www.baukjen.com
 category: Contemporary Fashion
 tags:
   - b-corp
   - rental
   - preloved
+  - circular-fashion
 featured: true
 markdown: >-
   ## Overview
@@ -20,26 +26,13 @@ markdown: >-
   include rental and resale options.
 
 
-  ## Features
-
-
-  - First UK brand with B Corp certification
-
-  - Highest environmental standards
-
-  - Ethical production practices
+  ## Circular Fashion
 
   - Clothing rental platform
 
   - Preloved marketplace
 
-  - Contemporary women's fashion
-
   - Circular business model
-
-  - Transparent supply chain
-
-  - Quality, timeless designs
 
 
   ## Sustainability Practices
@@ -57,12 +50,5 @@ markdown: >-
 
   Offers contemporary women's clothing including dresses, tops, knitwear,
   trousers, outerwear, and accessories designed for versatility and longevity.
-
-
-  ## Pricing
-
-
-  Mid to premium pricing with rental and preloved options offering accessible
-  alternatives.
 brand: Baukjen
-updated_at: 2026-02-26 10:38
+updated_at: 2026-04-05 00:21

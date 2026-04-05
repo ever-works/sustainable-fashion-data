@@ -1,13 +1,21 @@
 name: Wellicious
-description: London-born yoga clothing brand using GOTS certified organic cotton
-  and compostable elastane. Cradle to Cradle Gold Certified with biodegradable,
-  toxin-free fabrics.
+description: Wellicious is a London-born yoga clothing brand achieving Cradle to
+  Cradle Gold certification — one of the most rigorous sustainability standards
+  in fashion — by using GOTS-certified organic cotton and compostable Roica
+  elastane that biodegrades at end of life. Every fabric is independently
+  verified toxin-free, ensuring harmful chemicals never reach skin or waterways.
+  Where mainstream activewear brands load yoga clothes with permanent synthetic
+  microfibers that pollute oceans for centuries, Wellicious delivers certified
+  biodegradable, non-toxic activewear that safely returns to earth.
 source_url: https://www.wellicious.com
 category: Activewear
 tags:
-  - cradle-to-cradle
-  - organic-cotton
-  - compostable
+  - cradle-to-cradle-gold
+  - gots-certified
+  - compostable-elastane
+  - toxin-free
+  - biodegradable
+  - yoga
 featured: false
 markdown: >-
   ## Overview
@@ -20,7 +28,7 @@ markdown: >-
   ## Certifications
 
 
-  - Cradle to Cradle Certified® Gold
+  - Cradle to Cradle Certified Gold
 
   - GOTS certified organic cotton
 
@@ -50,7 +58,7 @@ markdown: >-
 
   - GOTS certified organic cotton
 
-  - Compostable Roica® elastane
+  - Compostable Roica elastane
 
   - Biodegradable fabrics
 
@@ -70,4 +78,4 @@ markdown: >-
   Pioneers circular fashion in activewear with materials that can safely return
   to earth without environmental harm.
 brand: Wellicious
-updated_at: 2026-02-26 08:57
+updated_at: 2026-04-05 00:21
