@@ -1,0 +1,7 @@
+name: Sustainable Fashion
+initial_prompt: Make a collection of sustainable fashion brands
+providers: {}
+website_repo: ever-works/sustainable-fashion-website
+schedule:
+  enabled: true
+  cadence: daily
